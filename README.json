@@ -1,0 +1,523 @@
+{
+  "items": [
+    {
+      "description": "To the extent possible under law, the authors have waived all copyright and related rights to this work.",
+      "items": [],
+      "title": "License"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Asterisk RTP Bleed",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-02-03T14:21:36Z",
+            "owner": "EnableSecurity",
+            "repo": "advisories",
+            "stars": 44
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Asterisk pjSIP CSeq Overflow",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-02-03T14:21:36Z",
+            "owner": "EnableSecurity",
+            "repo": "advisories",
+            "stars": 44
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Asterisk pjSIP Multi Parser Out-of-Bound Memory Access",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-02-03T14:21:36Z",
+            "owner": "EnableSecurity",
+            "repo": "advisories",
+            "stars": 44
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Asterisk Skinny Memory Exhaustion",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-02-03T14:21:36Z",
+            "owner": "EnableSecurity",
+            "repo": "advisories",
+            "stars": 44
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Asterisk Stack Corruption in Message",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-02-03T14:21:36Z",
+            "owner": "EnableSecurity",
+            "repo": "advisories",
+            "stars": 44
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Asterisk Segfault with Invalid SDP Attribute",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-02-03T14:21:36Z",
+            "owner": "EnableSecurity",
+            "repo": "advisories",
+            "stars": 44
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Asterisk Segfault with Invalid Media Format Descriptiom",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-02-03T14:21:36Z",
+            "owner": "EnableSecurity",
+            "repo": "advisories",
+            "stars": 44
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Asterisk Segfault with Replay Attack",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-02-03T14:21:36Z",
+            "owner": "EnableSecurity",
+            "repo": "advisories",
+            "stars": 44
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Kamalio Off-By-One Heap Overflow",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-02-03T14:21:36Z",
+            "owner": "EnableSecurity",
+            "repo": "advisories",
+            "stars": 44
+          }
+        }
+      ],
+      "title": "Advisories"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Metasploit auxiliary modules",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Ruby",
+            "last_commit": "2026-08-12T14:23:44Z",
+            "owner": "rapid7",
+            "repo": "metasploit-framework",
+            "stars": 38795
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "SIPVicious OSS",
+          "description": "A set of tools to audit SIP based systems",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-07-10T05:46:43Z",
+            "owner": "EnableSecurity",
+            "repo": "sipvicious",
+            "stars": 1095
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "stunner",
+          "description": "a tool to test and exploit STUN, TURN and TURN over TCP servers.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2026-08-12T12:39:05Z",
+            "owner": "firefart",
+            "repo": "stunner",
+            "stars": 858
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "SIPPTS",
+          "description": "Another set of tools to audit VoIP servers and devices using SIP protocol.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-06-26T08:34:15Z",
+            "owner": "Pepelux",
+            "repo": "sippts",
+            "stars": 571
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "TURNt",
+          "description": "PoC from Praetorian that abuses TURN servers (e.g. Zoom and Teams) to tunnel command-and-control traffic over web-conferencing infrastructure (the \"Ghost Calls\" technique).",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2026-06-09T11:46:23Z",
+            "owner": "praetorian-inc",
+            "repo": "turnt",
+            "stars": 433
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Mr.SIP",
+          "description": "SIP based audit and attack tool.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-03T19:34:33Z",
+            "owner": "meliht",
+            "repo": "Mr.SIP",
+            "stars": 431
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "VIPROY",
+          "description": "VoIP pentest framework which can be used with the metasploit-framework.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Ruby",
+            "last_commit": "2022-02-04T01:15:04Z",
+            "owner": "fozavci",
+            "repo": "viproy-voipkit",
+            "stars": 420
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "sipexer",
+          "description": "modern and flexible SIP command line client for testing SIP servers and devices, with custom requests, registration floods, stateful dialogues and lightweight fuzzing.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2026-07-17T05:25:44Z",
+            "owner": "miconda",
+            "repo": "sipexer",
+            "stars": 415
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "SigPloit",
+          "description": "Tool which covers all used SS7, GTP (3G), Diameter (4G) or even SIP protocols for IMS and VoLTE infrastructures.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Java",
+            "last_commit": "2019-12-17T16:51:23Z",
+            "owner": "SigPloiter",
+            "repo": "SigPloit",
+            "stars": 383
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "H26Forge",
+          "description": "generates and fuzzes syntactically valid but spec-non-compliant H.264 video to find decoder vulnerabilities (relevant to WebRTC video attack surface).",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Rust",
+            "last_commit": "2026-07-14T23:56:36Z",
+            "owner": "h26forge",
+            "repo": "h26forge",
+            "stars": 333
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "bluebox-ng",
+          "description": "Pentesting framework using Node.js powers, focused in VoIP. (public archive)",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2026-03-06T08:54:22Z",
+            "owner": "jesusprubio",
+            "repo": "bluebox",
+            "stars": 263
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "SeeYouCM Thief",
+          "description": "download and parse configuration files from Cisco phone systems searching for SSH credentials",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-07-29T19:43:38Z",
+            "owner": "trustedsec",
+            "repo": "SeeYouCM-Thief",
+            "stars": 205
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Turner",
+          "description": "PoC for tunnelling HTTP over a permissive/open TURN server.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2023-12-30T17:54:31Z",
+            "owner": "staaldraad",
+            "repo": "turner",
+            "stars": 199
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "sipsak",
+          "description": "SIP swiss army knife, has some features that can be used for security testing (e.g. flood more or random mode)",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C",
+            "last_commit": "2025-05-26T20:04:22Z",
+            "owner": "nils-ohlmeier",
+            "repo": "sipsak",
+            "stars": 175
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "vsaudit",
+          "description": "VoIP security assessment framework.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Ruby",
+            "last_commit": "2018-01-22T18:29:16Z",
+            "owner": "sonnyattck",
+            "repo": "vsaudit",
+            "stars": 109
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "VoIPShark",
+          "description": "Open Source VoIP Analysis Platform",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Lua",
+            "last_commit": "2020-02-18T07:49:04Z",
+            "owner": "pentesteracademy",
+            "repo": "voipshark",
+            "stars": 93
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "VoIP Hopper",
+          "description": "a tool to exploit insecure VLANs that are often found in IP Telephony infrastructure.",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "Roff",
+            "last_commit": "2024-01-30T16:22:00Z",
+            "owner": "iknowjason",
+            "repo": "voiphopper",
+            "stars": 82
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "rtpnatscan",
+          "description": "Tool which tests for rtpbleed vulnerability.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C",
+            "last_commit": "2017-09-05T15:06:30Z",
+            "owner": "kapejod",
+            "repo": "rtpnatscan",
+            "stars": 25
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "twilio-security-scanner",
+          "description": "scans Twilio Serverless deployments for misconfigurations such as public functions and assets, unencrypted webhooks and stale API keys.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2025-03-04T01:28:07Z",
+            "owner": "relayhawk",
+            "repo": "twilio-security-scanner",
+            "stars": 24
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "TURNado",
+          "description": "TURN attack toolkit from SySS that automates internal IP disclosure, UDP relay forwarding to internal/loopback services, SOCKS proxying, layer-3 tunnelling and allocation-based DoS.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2026-07-23T13:55:17Z",
+            "owner": "SySS-Research",
+            "repo": "TURNado",
+            "stars": 15
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "turnproxy",
+          "description": "Tool to abuse open TURN relays",
+          "children": []
+        }
+      ],
+      "title": "Open-source tools"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "DVRTC (Damn Vulnerable Real-Time Communications)",
+          "description": "intentionally vulnerable VoIP/WebRTC lab (Kamailio, Asterisk, rtpengine, coturn) for hands-on RTC security training.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2026-06-17T05:26:23Z",
+            "owner": "EnableSecurity",
+            "repo": "DVRTC",
+            "stars": 29
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "RTC_Attacks",
+          "description": "vulnerable RTC lab from University of Naples with CVE-anchored exploit scenarios (SIP MESSAGE spoofing, RTP Bleed, coturn ACL bypass and more).",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Lua",
+            "last_commit": "2026-03-23T15:07:45Z",
+            "owner": "WebRTC-Thesis-Unina",
+            "repo": "RTC_Attacks",
+            "stars": 3
+          }
+        }
+      ],
+      "title": "CTFs and Learning Resources"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Awesome Cellular Hacking",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2026-03-21T11:14:33Z",
+            "owner": "W00t3k",
+            "repo": "Awesome-Cellular-Hacking",
+            "stars": 3975
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Awesome Telco",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-08T13:24:29Z",
+            "owner": "ravens",
+            "repo": "awesome-telco",
+            "stars": 987
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Awesome RTC",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2026-05-18T19:39:18Z",
+            "owner": "rtckit",
+            "repo": "awesome-rtc",
+            "stars": 495
+          }
+        }
+      ],
+      "title": "Related lists"
+    }
+  ],
+  "metadata": {
+    "last_updated": "2026-08-13T04:05:39.911Z",
+    "original_repository": "EnableSecurity/awesome-rtc-hacking",
+    "original_repository_sha": "8d615dabb106bbfef2dc232a5a390cb060510cdc",
+    "enhanced_repository": "enhansome/enhansome-rtc-hacking",
+    "enhanced_repository_description": null,
+    "title": "Awesome Real-time Communications Security with stars"
+  }
+}
