@@ -151,7 +151,7 @@
             "last_commit": "2026-08-13T17:54:27Z",
             "owner": "rapid7",
             "repo": "metasploit-framework",
-            "stars": 38802
+            "stars": 38807
           }
         },
         {
@@ -176,7 +176,7 @@
           "repo_info": {
             "archived": false,
             "language": "Go",
-            "last_commit": "2026-08-13T12:39:53Z",
+            "last_commit": "2026-08-14T12:35:45Z",
             "owner": "firefart",
             "repo": "stunner",
             "stars": 858
@@ -263,7 +263,7 @@
             "last_commit": "2019-12-17T16:51:23Z",
             "owner": "SigPloiter",
             "repo": "SigPloit",
-            "stars": 384
+            "stars": 385
           }
         },
         {
@@ -477,7 +477,7 @@
             "last_commit": "2026-03-21T11:14:33Z",
             "owner": "W00t3k",
             "repo": "Awesome-Cellular-Hacking",
-            "stars": 3977
+            "stars": 3978
           }
         },
         {
@@ -491,7 +491,7 @@
             "last_commit": "2026-08-08T13:24:29Z",
             "owner": "ravens",
             "repo": "awesome-telco",
-            "stars": 987
+            "stars": 986
           }
         },
         {
@@ -513,7 +513,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-13T21:09:58.827Z",
+    "last_updated": "2026-08-14T20:52:06.789Z",
     "original_repository": "EnableSecurity/awesome-rtc-hacking",
     "original_repository_sha": "8d615dabb106bbfef2dc232a5a390cb060510cdc",
     "enhanced_repository": "enhansome/enhansome-rtc-hacking",
