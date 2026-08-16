@@ -151,7 +151,7 @@
             "last_commit": "2026-08-13T17:54:27Z",
             "owner": "rapid7",
             "repo": "metasploit-framework",
-            "stars": 38812
+            "stars": 38819
           }
         },
         {
@@ -165,7 +165,7 @@
             "last_commit": "2026-07-10T05:46:43Z",
             "owner": "EnableSecurity",
             "repo": "sipvicious",
-            "stars": 1095
+            "stars": 1096
           }
         },
         {
@@ -477,7 +477,7 @@
             "last_commit": "2026-03-21T11:14:33Z",
             "owner": "W00t3k",
             "repo": "Awesome-Cellular-Hacking",
-            "stars": 3980
+            "stars": 3981
           }
         },
         {
@@ -488,10 +488,10 @@
           "repo_info": {
             "archived": false,
             "language": "Python",
-            "last_commit": "2026-08-08T13:24:29Z",
+            "last_commit": "2026-08-16T19:14:06Z",
             "owner": "ravens",
             "repo": "awesome-telco",
-            "stars": 986
+            "stars": 985
           }
         },
         {
@@ -513,7 +513,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-15T20:44:27.512Z",
+    "last_updated": "2026-08-16T20:43:39.214Z",
     "original_repository": "EnableSecurity/awesome-rtc-hacking",
     "original_repository_sha": "8d615dabb106bbfef2dc232a5a390cb060510cdc",
     "enhanced_repository": "enhansome/enhansome-rtc-hacking",
