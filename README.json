@@ -148,10 +148,10 @@
           "repo_info": {
             "archived": false,
             "language": "Ruby",
-            "last_commit": "2026-08-17T01:29:37Z",
+            "last_commit": "2026-08-18T15:21:12Z",
             "owner": "rapid7",
             "repo": "metasploit-framework",
-            "stars": 38823
+            "stars": 38828
           }
         },
         {
@@ -165,7 +165,7 @@
             "last_commit": "2026-07-10T05:46:43Z",
             "owner": "EnableSecurity",
             "repo": "sipvicious",
-            "stars": 1097
+            "stars": 1096
           }
         },
         {
@@ -491,7 +491,7 @@
             "last_commit": "2026-08-16T19:14:06Z",
             "owner": "ravens",
             "repo": "awesome-telco",
-            "stars": 986
+            "stars": 988
           }
         },
         {
@@ -513,7 +513,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-17T20:49:39.072Z",
+    "last_updated": "2026-08-18T20:45:03.695Z",
     "original_repository": "EnableSecurity/awesome-rtc-hacking",
     "original_repository_sha": "8d615dabb106bbfef2dc232a5a390cb060510cdc",
     "enhanced_repository": "enhansome/enhansome-rtc-hacking",
