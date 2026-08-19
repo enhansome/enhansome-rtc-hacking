@@ -91,12 +91,12 @@ To the extent possible under law, the authors have waived all copyright and rela
 
 ## Open-source tools
 
-* [Metasploit auxiliary modules](https://github.com/rapid7/metasploit-framework/tree/master/modules/auxiliary/voip) ⭐ 38,830 | 🐛 612 | 🌐 Ruby | 📅 2026-08-18
+* [Metasploit auxiliary modules](https://github.com/rapid7/metasploit-framework/tree/master/modules/auxiliary/voip) ⭐ 38,830 | 🐛 616 | 🌐 Ruby | 📅 2026-08-18
 * [SIPVicious OSS](https://github.com/EnableSecurity/sipvicious/) ⭐ 1,096 | 🐛 0 | 🌐 Python | 📅 2026-07-10 - A set of tools to audit SIP based systems
 * [stunner](https://github.com/firefart/stunner) ⭐ 859 | 🐛 4 | 🌐 Go | 📅 2026-08-19 -  a tool to test and exploit STUN, TURN and TURN over TCP servers.
 * [SIPPTS](https://github.com/Pepelux/sippts) ⭐ 571 | 🐛 0 | 🌐 Python | 📅 2026-06-26 - Another set of tools to audit VoIP servers and devices using SIP protocol.
 * [TURNt](https://github.com/praetorian-inc/turnt) ⭐ 433 | 🐛 2 | 🌐 Go | 📅 2026-06-09 - PoC from Praetorian that abuses TURN servers (e.g. Zoom and Teams) to tunnel command-and-control traffic over web-conferencing infrastructure (the "Ghost Calls" technique).
-* [Mr.SIP](https://github.com/meliht/Mr.SIP) ⭐ 431 | 🐛 0 | 🌐 Python | 📅 2026-08-03 - SIP based audit and attack tool.
+* [Mr.SIP](https://github.com/meliht/Mr.SIP) ⭐ 431 | 🐛 1 | 🌐 Python | 📅 2026-08-03 - SIP based audit and attack tool.
 * [VIPROY](https://github.com/fozavci/viproy-voipkit) ⭐ 420 | 🐛 19 | 🌐 Ruby | 📅 2022-02-04 - VoIP pentest framework which can be used with the metasploit-framework.
 * [sipexer](https://github.com/miconda/sipexer) ⭐ 416 | 🐛 1 | 🌐 Go | 📅 2026-07-17 - modern and flexible SIP command line client for testing SIP servers and devices, with custom requests, registration floods, stateful dialogues and lightweight fuzzing.
 * [SigPloit](https://github.com/SigPloiter/SigPloit) ⭐ 386 | 🐛 60 | 🌐 Java | 📅 2019-12-17 - Tool which covers all used SS7, GTP (3G), Diameter (4G) or even SIP protocols for IMS and VoLTE infrastructures.
