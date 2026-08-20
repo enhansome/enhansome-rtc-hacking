@@ -153,10 +153,10 @@
             "archived": false,
             "id": 2293158,
             "language": "Ruby",
-            "last_commit": "2026-08-18T15:21:12Z",
+            "last_commit": "2026-08-20T19:45:41Z",
             "owner": "rapid7",
             "repo": "metasploit-framework",
-            "stars": 38830
+            "stars": 38832
           }
         },
         {
@@ -321,7 +321,7 @@
             "last_commit": "2026-07-29T19:43:38Z",
             "owner": "trustedsec",
             "repo": "SeeYouCM-Thief",
-            "stars": 205
+            "stars": 204
           }
         },
         {
@@ -498,7 +498,7 @@
             "last_commit": "2026-03-21T11:14:33Z",
             "owner": "W00t3k",
             "repo": "Awesome-Cellular-Hacking",
-            "stars": 3983
+            "stars": 3986
           }
         },
         {
@@ -513,7 +513,7 @@
             "last_commit": "2026-08-16T19:14:06Z",
             "owner": "ravens",
             "repo": "awesome-telco",
-            "stars": 988
+            "stars": 989
           }
         },
         {
@@ -528,7 +528,7 @@
             "last_commit": "2026-05-18T19:39:18Z",
             "owner": "rtckit",
             "repo": "awesome-rtc",
-            "stars": 495
+            "stars": 496
           }
         }
       ],
@@ -536,7 +536,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-19T20:50:33.540Z",
+    "last_updated": "2026-08-20T20:52:18.409Z",
     "original_repository": "EnableSecurity/awesome-rtc-hacking",
     "original_repository_id": 259825257,
     "original_repository_sha": "8d615dabb106bbfef2dc232a5a390cb060510cdc",
