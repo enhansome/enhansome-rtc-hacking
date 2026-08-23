@@ -156,7 +156,7 @@
             "last_commit": "2026-08-21T22:52:09Z",
             "owner": "rapid7",
             "repo": "metasploit-framework",
-            "stars": 38839
+            "stars": 38850
           }
         },
         {
@@ -306,7 +306,7 @@
             "last_commit": "2026-03-06T08:54:22Z",
             "owner": "jesusprubio",
             "repo": "bluebox",
-            "stars": 263
+            "stars": 264
           }
         },
         {
@@ -498,7 +498,7 @@
             "last_commit": "2026-03-21T11:14:33Z",
             "owner": "W00t3k",
             "repo": "Awesome-Cellular-Hacking",
-            "stars": 3990
+            "stars": 3992
           }
         },
         {
@@ -536,7 +536,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-22T20:44:49.664Z",
+    "last_updated": "2026-08-23T20:44:51.889Z",
     "original_repository": "EnableSecurity/awesome-rtc-hacking",
     "original_repository_id": 259825257,
     "original_repository_sha": "8d615dabb106bbfef2dc232a5a390cb060510cdc",
