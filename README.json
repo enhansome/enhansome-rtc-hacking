@@ -153,10 +153,10 @@
             "archived": false,
             "id": 2293158,
             "language": "Ruby",
-            "last_commit": "2026-08-24T20:42:03Z",
+            "last_commit": "2026-08-25T17:36:29Z",
             "owner": "rapid7",
             "repo": "metasploit-framework",
-            "stars": 38868
+            "stars": 38877
           }
         },
         {
@@ -258,7 +258,7 @@
             "archived": false,
             "id": 440819916,
             "language": "Go",
-            "last_commit": "2026-08-24T20:36:38Z",
+            "last_commit": "2026-08-25T10:16:17Z",
             "owner": "miconda",
             "repo": "sipexer",
             "stars": 416
@@ -498,7 +498,7 @@
             "last_commit": "2026-03-21T11:14:33Z",
             "owner": "W00t3k",
             "repo": "Awesome-Cellular-Hacking",
-            "stars": 3997
+            "stars": 3998
           }
         },
         {
@@ -513,7 +513,7 @@
             "last_commit": "2026-08-16T19:14:06Z",
             "owner": "ravens",
             "repo": "awesome-telco",
-            "stars": 992
+            "stars": 993
           }
         },
         {
@@ -536,7 +536,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-25T06:16:31.163Z",
+    "last_updated": "2026-08-25T20:51:51.247Z",
     "original_repository": "EnableSecurity/awesome-rtc-hacking",
     "original_repository_id": 259825257,
     "original_repository_sha": "8d615dabb106bbfef2dc232a5a390cb060510cdc",
