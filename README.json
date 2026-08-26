@@ -153,10 +153,10 @@
             "archived": false,
             "id": 2293158,
             "language": "Ruby",
-            "last_commit": "2026-08-25T17:36:29Z",
+            "last_commit": "2026-08-26T23:31:42Z",
             "owner": "rapid7",
             "repo": "metasploit-framework",
-            "stars": 38877
+            "stars": 38884
           }
         },
         {
@@ -171,7 +171,7 @@
             "last_commit": "2026-07-10T05:46:43Z",
             "owner": "EnableSecurity",
             "repo": "sipvicious",
-            "stars": 1097
+            "stars": 1098
           }
         },
         {
@@ -183,10 +183,10 @@
             "archived": false,
             "id": 481937257,
             "language": "Go",
-            "last_commit": "2026-08-19T12:19:26Z",
+            "last_commit": "2026-08-26T12:24:31Z",
             "owner": "firefart",
             "repo": "stunner",
-            "stars": 858
+            "stars": 859
           }
         },
         {
@@ -216,7 +216,7 @@
             "last_commit": "2026-06-09T11:46:23Z",
             "owner": "praetorian-inc",
             "repo": "turnt",
-            "stars": 433
+            "stars": 435
           }
         },
         {
@@ -258,7 +258,7 @@
             "archived": false,
             "id": 440819916,
             "language": "Go",
-            "last_commit": "2026-08-25T10:16:17Z",
+            "last_commit": "2026-08-26T08:25:54Z",
             "owner": "miconda",
             "repo": "sipexer",
             "stars": 416
@@ -513,7 +513,7 @@
             "last_commit": "2026-08-16T19:14:06Z",
             "owner": "ravens",
             "repo": "awesome-telco",
-            "stars": 993
+            "stars": 994
           }
         },
         {
@@ -536,7 +536,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-25T20:51:51.247Z",
+    "last_updated": "2026-08-26T23:48:32.779Z",
     "original_repository": "EnableSecurity/awesome-rtc-hacking",
     "original_repository_id": 259825257,
     "original_repository_sha": "8d615dabb106bbfef2dc232a5a390cb060510cdc",
