@@ -153,10 +153,10 @@
             "archived": false,
             "id": 2293158,
             "language": "Ruby",
-            "last_commit": "2026-08-26T23:31:42Z",
+            "last_commit": "2026-08-27T11:50:24Z",
             "owner": "rapid7",
             "repo": "metasploit-framework",
-            "stars": 38884
+            "stars": 38891
           }
         },
         {
@@ -186,7 +186,7 @@
             "last_commit": "2026-08-26T12:24:31Z",
             "owner": "firefart",
             "repo": "stunner",
-            "stars": 859
+            "stars": 861
           }
         },
         {
@@ -258,7 +258,7 @@
             "archived": false,
             "id": 440819916,
             "language": "Go",
-            "last_commit": "2026-08-26T08:25:54Z",
+            "last_commit": "2026-08-27T10:34:02Z",
             "owner": "miconda",
             "repo": "sipexer",
             "stars": 416
@@ -498,7 +498,7 @@
             "last_commit": "2026-03-21T11:14:33Z",
             "owner": "W00t3k",
             "repo": "Awesome-Cellular-Hacking",
-            "stars": 3998
+            "stars": 4001
           }
         },
         {
@@ -536,9 +536,16 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-26T23:48:32.779Z",
-    "original_repository": "EnableSecurity/awesome-rtc-hacking",
-    "original_repository_id": 259825257,
+    "last_updated": "2026-08-27T12:06:03.522Z",
+    "original_repository_info": {
+      "archived": false,
+      "id": 259825257,
+      "language": null,
+      "last_commit": "2026-06-30T08:25:18Z",
+      "owner": "EnableSecurity",
+      "repo": "awesome-rtc-hacking",
+      "stars": 550
+    },
     "original_repository_sha": "8d615dabb106bbfef2dc232a5a390cb060510cdc",
     "enhanced_repository": "enhansome/enhansome-rtc-hacking",
     "enhanced_repository_description": null,
