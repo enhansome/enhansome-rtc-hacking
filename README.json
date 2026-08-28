@@ -16,7 +16,8 @@
             "owner": "EnableSecurity",
             "repo": "advisories",
             "stars": 44
-          }
+          },
+          "first_seen": "2026-08-28T04:24:01.519Z"
         },
         {
           "node_type": "item",
@@ -31,7 +32,8 @@
             "owner": "EnableSecurity",
             "repo": "advisories",
             "stars": 44
-          }
+          },
+          "first_seen": "2026-08-28T04:24:01.519Z"
         },
         {
           "node_type": "item",
@@ -46,7 +48,8 @@
             "owner": "EnableSecurity",
             "repo": "advisories",
             "stars": 44
-          }
+          },
+          "first_seen": "2026-08-28T04:24:01.519Z"
         },
         {
           "node_type": "item",
@@ -61,7 +64,8 @@
             "owner": "EnableSecurity",
             "repo": "advisories",
             "stars": 44
-          }
+          },
+          "first_seen": "2026-08-28T04:24:01.519Z"
         },
         {
           "node_type": "item",
@@ -76,7 +80,8 @@
             "owner": "EnableSecurity",
             "repo": "advisories",
             "stars": 44
-          }
+          },
+          "first_seen": "2026-08-28T04:24:01.519Z"
         },
         {
           "node_type": "item",
@@ -91,7 +96,8 @@
             "owner": "EnableSecurity",
             "repo": "advisories",
             "stars": 44
-          }
+          },
+          "first_seen": "2026-08-28T04:24:01.519Z"
         },
         {
           "node_type": "item",
@@ -106,7 +112,8 @@
             "owner": "EnableSecurity",
             "repo": "advisories",
             "stars": 44
-          }
+          },
+          "first_seen": "2026-08-28T04:24:01.519Z"
         },
         {
           "node_type": "item",
@@ -121,7 +128,8 @@
             "owner": "EnableSecurity",
             "repo": "advisories",
             "stars": 44
-          }
+          },
+          "first_seen": "2026-08-28T04:24:01.519Z"
         },
         {
           "node_type": "item",
@@ -136,7 +144,8 @@
             "owner": "EnableSecurity",
             "repo": "advisories",
             "stars": 44
-          }
+          },
+          "first_seen": "2026-08-28T04:24:01.519Z"
         }
       ],
       "title": "Advisories"
@@ -153,11 +162,12 @@
             "archived": false,
             "id": 2293158,
             "language": "Ruby",
-            "last_commit": "2026-08-27T11:50:24Z",
+            "last_commit": "2026-08-27T20:53:58Z",
             "owner": "rapid7",
             "repo": "metasploit-framework",
-            "stars": 38891
-          }
+            "stars": 38899
+          },
+          "first_seen": "2026-08-28T04:24:01.519Z"
         },
         {
           "node_type": "item",
@@ -171,8 +181,9 @@
             "last_commit": "2026-07-10T05:46:43Z",
             "owner": "EnableSecurity",
             "repo": "sipvicious",
-            "stars": 1098
-          }
+            "stars": 1099
+          },
+          "first_seen": "2026-08-28T04:24:01.519Z"
         },
         {
           "node_type": "item",
@@ -187,7 +198,8 @@
             "owner": "firefart",
             "repo": "stunner",
             "stars": 861
-          }
+          },
+          "first_seen": "2026-08-28T04:24:01.519Z"
         },
         {
           "node_type": "item",
@@ -202,7 +214,8 @@
             "owner": "Pepelux",
             "repo": "sippts",
             "stars": 571
-          }
+          },
+          "first_seen": "2026-08-28T04:24:01.519Z"
         },
         {
           "node_type": "item",
@@ -217,7 +230,8 @@
             "owner": "praetorian-inc",
             "repo": "turnt",
             "stars": 435
-          }
+          },
+          "first_seen": "2026-08-28T04:24:01.519Z"
         },
         {
           "node_type": "item",
@@ -232,7 +246,8 @@
             "owner": "meliht",
             "repo": "Mr.SIP",
             "stars": 431
-          }
+          },
+          "first_seen": "2026-08-28T04:24:01.519Z"
         },
         {
           "node_type": "item",
@@ -247,7 +262,8 @@
             "owner": "fozavci",
             "repo": "viproy-voipkit",
             "stars": 420
-          }
+          },
+          "first_seen": "2026-08-28T04:24:01.519Z"
         },
         {
           "node_type": "item",
@@ -262,7 +278,8 @@
             "owner": "miconda",
             "repo": "sipexer",
             "stars": 416
-          }
+          },
+          "first_seen": "2026-08-28T04:24:01.519Z"
         },
         {
           "node_type": "item",
@@ -277,7 +294,8 @@
             "owner": "SigPloiter",
             "repo": "SigPloit",
             "stars": 388
-          }
+          },
+          "first_seen": "2026-08-28T04:24:01.519Z"
         },
         {
           "node_type": "item",
@@ -292,7 +310,8 @@
             "owner": "h26forge",
             "repo": "h26forge",
             "stars": 333
-          }
+          },
+          "first_seen": "2026-08-28T04:24:01.519Z"
         },
         {
           "node_type": "item",
@@ -307,7 +326,8 @@
             "owner": "jesusprubio",
             "repo": "bluebox",
             "stars": 264
-          }
+          },
+          "first_seen": "2026-08-28T04:24:01.519Z"
         },
         {
           "node_type": "item",
@@ -322,7 +342,8 @@
             "owner": "trustedsec",
             "repo": "SeeYouCM-Thief",
             "stars": 204
-          }
+          },
+          "first_seen": "2026-08-28T04:24:01.519Z"
         },
         {
           "node_type": "item",
@@ -337,7 +358,8 @@
             "owner": "staaldraad",
             "repo": "turner",
             "stars": 199
-          }
+          },
+          "first_seen": "2026-08-28T04:24:01.519Z"
         },
         {
           "node_type": "item",
@@ -351,8 +373,9 @@
             "last_commit": "2025-05-26T20:04:22Z",
             "owner": "nils-ohlmeier",
             "repo": "sipsak",
-            "stars": 175
-          }
+            "stars": 176
+          },
+          "first_seen": "2026-08-28T04:24:01.519Z"
         },
         {
           "node_type": "item",
@@ -367,7 +390,8 @@
             "owner": "sonnyattck",
             "repo": "vsaudit",
             "stars": 109
-          }
+          },
+          "first_seen": "2026-08-28T04:24:01.519Z"
         },
         {
           "node_type": "item",
@@ -382,7 +406,8 @@
             "owner": "pentesteracademy",
             "repo": "voipshark",
             "stars": 93
-          }
+          },
+          "first_seen": "2026-08-28T04:24:01.519Z"
         },
         {
           "node_type": "item",
@@ -397,7 +422,8 @@
             "owner": "iknowjason",
             "repo": "voiphopper",
             "stars": 82
-          }
+          },
+          "first_seen": "2026-08-28T04:24:01.519Z"
         },
         {
           "node_type": "item",
@@ -412,7 +438,8 @@
             "owner": "kapejod",
             "repo": "rtpnatscan",
             "stars": 25
-          }
+          },
+          "first_seen": "2026-08-28T04:24:01.519Z"
         },
         {
           "node_type": "item",
@@ -427,7 +454,8 @@
             "owner": "relayhawk",
             "repo": "twilio-security-scanner",
             "stars": 24
-          }
+          },
+          "first_seen": "2026-08-28T04:24:01.519Z"
         },
         {
           "node_type": "item",
@@ -442,7 +470,8 @@
             "owner": "SySS-Research",
             "repo": "TURNado",
             "stars": 15
-          }
+          },
+          "first_seen": "2026-08-28T04:24:01.519Z"
         }
       ],
       "title": "Open-source tools"
@@ -463,7 +492,8 @@
             "owner": "EnableSecurity",
             "repo": "DVRTC",
             "stars": 29
-          }
+          },
+          "first_seen": "2026-08-28T04:24:01.519Z"
         },
         {
           "node_type": "item",
@@ -478,7 +508,8 @@
             "owner": "WebRTC-Thesis-Unina",
             "repo": "RTC_Attacks",
             "stars": 3
-          }
+          },
+          "first_seen": "2026-08-28T04:24:01.519Z"
         }
       ],
       "title": "CTFs and Learning Resources"
@@ -498,8 +529,9 @@
             "last_commit": "2026-03-21T11:14:33Z",
             "owner": "W00t3k",
             "repo": "Awesome-Cellular-Hacking",
-            "stars": 4001
-          }
+            "stars": 4002
+          },
+          "first_seen": "2026-08-28T04:24:01.519Z"
         },
         {
           "node_type": "item",
@@ -514,7 +546,8 @@
             "owner": "ravens",
             "repo": "awesome-telco",
             "stars": 994
-          }
+          },
+          "first_seen": "2026-08-28T04:24:01.519Z"
         },
         {
           "node_type": "item",
@@ -529,14 +562,15 @@
             "owner": "rtckit",
             "repo": "awesome-rtc",
             "stars": 494
-          }
+          },
+          "first_seen": "2026-08-28T04:24:01.519Z"
         }
       ],
       "title": "Related lists"
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-27T12:06:03.522Z",
+    "last_updated": "2026-08-28T04:24:01.519Z",
     "original_repository_info": {
       "archived": false,
       "id": 259825257,
@@ -544,7 +578,7 @@
       "last_commit": "2026-06-30T08:25:18Z",
       "owner": "EnableSecurity",
       "repo": "awesome-rtc-hacking",
-      "stars": 550
+      "stars": 549
     },
     "original_repository_sha": "8d615dabb106bbfef2dc232a5a390cb060510cdc",
     "enhanced_repository": "enhansome/enhansome-rtc-hacking",
