@@ -10,12 +10,20 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Security advisories published by Enable Security",
+            "homepage": "https://www.enablesecurity.com/",
             "id": 60171743,
             "language": "Python",
+            "license": null,
             "last_commit": "2026-02-03T14:21:36Z",
+            "open_issues": 0,
             "owner": "EnableSecurity",
             "repo": "advisories",
-            "stars": 44
+            "stars": 44,
+            "topics": [
+              "advisories",
+              "security-research"
+            ]
           },
           "first_seen": "2026-08-28T04:24:01.519Z"
         },
@@ -26,12 +34,20 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Security advisories published by Enable Security",
+            "homepage": "https://www.enablesecurity.com/",
             "id": 60171743,
             "language": "Python",
+            "license": null,
             "last_commit": "2026-02-03T14:21:36Z",
+            "open_issues": 0,
             "owner": "EnableSecurity",
             "repo": "advisories",
-            "stars": 44
+            "stars": 44,
+            "topics": [
+              "advisories",
+              "security-research"
+            ]
           },
           "first_seen": "2026-08-28T04:24:01.519Z"
         },
@@ -42,12 +58,20 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Security advisories published by Enable Security",
+            "homepage": "https://www.enablesecurity.com/",
             "id": 60171743,
             "language": "Python",
+            "license": null,
             "last_commit": "2026-02-03T14:21:36Z",
+            "open_issues": 0,
             "owner": "EnableSecurity",
             "repo": "advisories",
-            "stars": 44
+            "stars": 44,
+            "topics": [
+              "advisories",
+              "security-research"
+            ]
           },
           "first_seen": "2026-08-28T04:24:01.519Z"
         },
@@ -58,12 +82,20 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Security advisories published by Enable Security",
+            "homepage": "https://www.enablesecurity.com/",
             "id": 60171743,
             "language": "Python",
+            "license": null,
             "last_commit": "2026-02-03T14:21:36Z",
+            "open_issues": 0,
             "owner": "EnableSecurity",
             "repo": "advisories",
-            "stars": 44
+            "stars": 44,
+            "topics": [
+              "advisories",
+              "security-research"
+            ]
           },
           "first_seen": "2026-08-28T04:24:01.519Z"
         },
@@ -74,12 +106,20 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Security advisories published by Enable Security",
+            "homepage": "https://www.enablesecurity.com/",
             "id": 60171743,
             "language": "Python",
+            "license": null,
             "last_commit": "2026-02-03T14:21:36Z",
+            "open_issues": 0,
             "owner": "EnableSecurity",
             "repo": "advisories",
-            "stars": 44
+            "stars": 44,
+            "topics": [
+              "advisories",
+              "security-research"
+            ]
           },
           "first_seen": "2026-08-28T04:24:01.519Z"
         },
@@ -90,12 +130,20 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Security advisories published by Enable Security",
+            "homepage": "https://www.enablesecurity.com/",
             "id": 60171743,
             "language": "Python",
+            "license": null,
             "last_commit": "2026-02-03T14:21:36Z",
+            "open_issues": 0,
             "owner": "EnableSecurity",
             "repo": "advisories",
-            "stars": 44
+            "stars": 44,
+            "topics": [
+              "advisories",
+              "security-research"
+            ]
           },
           "first_seen": "2026-08-28T04:24:01.519Z"
         },
@@ -106,12 +154,20 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Security advisories published by Enable Security",
+            "homepage": "https://www.enablesecurity.com/",
             "id": 60171743,
             "language": "Python",
+            "license": null,
             "last_commit": "2026-02-03T14:21:36Z",
+            "open_issues": 0,
             "owner": "EnableSecurity",
             "repo": "advisories",
-            "stars": 44
+            "stars": 44,
+            "topics": [
+              "advisories",
+              "security-research"
+            ]
           },
           "first_seen": "2026-08-28T04:24:01.519Z"
         },
@@ -122,12 +178,20 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Security advisories published by Enable Security",
+            "homepage": "https://www.enablesecurity.com/",
             "id": 60171743,
             "language": "Python",
+            "license": null,
             "last_commit": "2026-02-03T14:21:36Z",
+            "open_issues": 0,
             "owner": "EnableSecurity",
             "repo": "advisories",
-            "stars": 44
+            "stars": 44,
+            "topics": [
+              "advisories",
+              "security-research"
+            ]
           },
           "first_seen": "2026-08-28T04:24:01.519Z"
         },
@@ -138,12 +202,20 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Security advisories published by Enable Security",
+            "homepage": "https://www.enablesecurity.com/",
             "id": 60171743,
             "language": "Python",
+            "license": null,
             "last_commit": "2026-02-03T14:21:36Z",
+            "open_issues": 0,
             "owner": "EnableSecurity",
             "repo": "advisories",
-            "stars": 44
+            "stars": 44,
+            "topics": [
+              "advisories",
+              "security-research"
+            ]
           },
           "first_seen": "2026-08-28T04:24:01.519Z"
         }
@@ -160,12 +232,19 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Metasploit Framework",
+            "homepage": "https://www.metasploit.com/",
             "id": 2293158,
             "language": "Ruby",
+            "license": "NOASSERTION",
             "last_commit": "2026-08-28T17:59:06Z",
+            "open_issues": 593,
             "owner": "rapid7",
             "repo": "metasploit-framework",
-            "stars": 38906
+            "stars": 38906,
+            "topics": [
+              "hacktoberfest"
+            ]
           },
           "first_seen": "2026-08-28T04:24:01.519Z"
         },
@@ -176,12 +255,30 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "SIPVicious OSS is a VoIP security testing toolset. It helps security teams, QA and developers test SIP-based VoIP systems and applications. This toolset is useful in simulating VoIP hacking attacks against PBX systems especially through identification, scanning, extension enumeration and password cracking.",
+            "homepage": "https://www.enablesecurity.com/sipvicious/",
             "id": 32133566,
             "language": "Python",
+            "license": "NOASSERTION",
             "last_commit": "2026-07-10T05:46:43Z",
+            "open_issues": 0,
             "owner": "EnableSecurity",
             "repo": "sipvicious",
-            "stars": 1099
+            "stars": 1099,
+            "topics": [
+              "audit-sip",
+              "hacking-tools",
+              "password-cracker",
+              "security",
+              "security-tools",
+              "sip",
+              "svcrack",
+              "svcrash",
+              "svmap",
+              "svwar",
+              "voip",
+              "war-dial"
+            ]
           },
           "first_seen": "2026-08-28T04:24:01.519Z"
         },
@@ -192,12 +289,26 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Stunner is a tool to test and exploit STUN, TURN and TURN over TCP servers.",
+            "homepage": null,
             "id": 481937257,
             "language": "Go",
+            "license": "NOASSERTION",
             "last_commit": "2026-08-26T12:24:31Z",
+            "open_issues": 4,
             "owner": "firefart",
             "repo": "stunner",
-            "stars": 862
+            "stars": 862,
+            "topics": [
+              "exploit",
+              "misconfiguration",
+              "security",
+              "stun",
+              "testing",
+              "tool",
+              "turn",
+              "webrtc"
+            ]
           },
           "first_seen": "2026-08-28T04:24:01.519Z"
         },
@@ -208,12 +319,38 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Set of tools to audit SIP based VoIP Systems",
+            "homepage": null,
             "id": 35772572,
             "language": "Python",
+            "license": "GPL-3.0",
             "last_commit": "2026-06-26T08:34:15Z",
+            "open_issues": 0,
             "owner": "Pepelux",
             "repo": "sippts",
-            "stars": 571
+            "stars": 571,
+            "topics": [
+              "asterisk",
+              "elastix",
+              "freepbx",
+              "hacking",
+              "hacking-tool",
+              "password-cracker",
+              "pbx",
+              "penetration-testing",
+              "pentest",
+              "pentest-tool",
+              "pentesting",
+              "pplsip",
+              "security",
+              "security-audit",
+              "security-tools",
+              "secutiry",
+              "sip",
+              "voip",
+              "voip-hacking",
+              "webrtc"
+            ]
           },
           "first_seen": "2026-08-28T04:24:01.519Z"
         },
@@ -224,12 +361,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A tool designed for smuggling interactive command and control traffic through legitimate TURN servers hosted by reputable providers such as Zoom.",
+            "homepage": null,
             "id": 1028508943,
             "language": "Go",
+            "license": "Apache-2.0",
             "last_commit": "2026-06-09T11:46:23Z",
+            "open_issues": 2,
             "owner": "praetorian-inc",
             "repo": "turnt",
-            "stars": 435
+            "stars": 435,
+            "topics": []
           },
           "first_seen": "2026-08-28T04:24:01.519Z"
         },
@@ -240,12 +382,36 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "SIP Security Assessment Framework for VoIP Pentesters. Presented at DEFCON, BlackHat & Offzone. ",
+            "homepage": "https://mrsip.pro",
             "id": 102771372,
             "language": "Python",
+            "license": "GPL-3.0",
             "last_commit": "2026-08-03T19:34:33Z",
+            "open_issues": 1,
             "owner": "meliht",
             "repo": "Mr.SIP",
-            "stars": 431
+            "stars": 431,
+            "topics": [
+              "caller-id-spoofing",
+              "cracking",
+              "cve-scanner",
+              "ddos-attacks",
+              "digest-authentication-cracker",
+              "dos-attack",
+              "drdos",
+              "fuzzing",
+              "ip-spoofing",
+              "pbx",
+              "penetration-testing",
+              "pentesting",
+              "phreaking",
+              "red-team",
+              "sip",
+              "vishing",
+              "voip",
+              "voip-security"
+            ]
           },
           "first_seen": "2026-08-28T04:24:01.519Z"
         },
@@ -256,12 +422,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "VIPROY - VoIP Pen-Test Kit for Metasploit Framework",
+            "homepage": null,
             "id": 9219720,
             "language": "Ruby",
+            "license": "NOASSERTION",
             "last_commit": "2022-02-04T01:15:04Z",
+            "open_issues": 19,
             "owner": "fozavci",
             "repo": "viproy-voipkit",
-            "stars": 420
+            "stars": 420,
+            "topics": []
           },
           "first_seen": "2026-08-28T04:24:01.519Z"
         },
@@ -272,12 +443,25 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Modern and flexible SIP/VoIP cli tool",
+            "homepage": null,
             "id": 440819916,
             "language": "Go",
+            "license": "GPL-3.0",
             "last_commit": "2026-08-27T10:34:02Z",
+            "open_issues": 1,
             "owner": "miconda",
             "repo": "sipexer",
-            "stars": 417
+            "stars": 417,
+            "topics": [
+              "go",
+              "golang",
+              "sip",
+              "telephony",
+              "voip",
+              "webrtc",
+              "websocket"
+            ]
           },
           "first_seen": "2026-08-28T04:24:01.519Z"
         },
@@ -288,12 +472,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "SigPloit: Telecom Signaling Exploitation Framework - SS7, GTP, Diameter & SIP",
+            "homepage": null,
             "id": 86656187,
             "language": "Java",
+            "license": "MIT",
             "last_commit": "2019-12-17T16:51:23Z",
+            "open_issues": 59,
             "owner": "SigPloiter",
             "repo": "SigPloit",
-            "stars": 388
+            "stars": 388,
+            "topics": []
           },
           "first_seen": "2026-08-28T04:24:01.519Z"
         },
@@ -304,12 +493,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Domain-specific infrastructure for analyzing, generating, and manipulating syntactically correct but semantically spec-non-compliant video files.",
+            "homepage": null,
             "id": 606881446,
             "language": "Rust",
+            "license": "MIT",
             "last_commit": "2026-07-14T23:56:36Z",
+            "open_issues": 3,
             "owner": "h26forge",
             "repo": "h26forge",
-            "stars": 333
+            "stars": 333,
+            "topics": []
           },
           "first_seen": "2026-08-28T04:24:01.519Z"
         },
@@ -320,12 +514,21 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A collection of exploits for different VoIP products.",
+            "homepage": null,
             "id": 9036642,
             "language": "Go",
+            "license": "MIT",
             "last_commit": "2026-03-06T08:54:22Z",
+            "open_issues": 1,
             "owner": "jesusprubio",
             "repo": "bluebox",
-            "stars": 264
+            "stars": 264,
+            "topics": [
+              "exploit",
+              "go-exploit",
+              "voip"
+            ]
           },
           "first_seen": "2026-08-28T04:24:01.519Z"
         },
@@ -336,12 +539,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": null,
             "id": 448095082,
             "language": "Python",
+            "license": "Unlicense",
             "last_commit": "2026-08-29T00:49:57Z",
+            "open_issues": 8,
             "owner": "trustedsec",
             "repo": "SeeYouCM-Thief",
-            "stars": 204
+            "stars": 204,
+            "topics": []
           },
           "first_seen": "2026-08-28T04:24:01.519Z"
         },
@@ -352,12 +560,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "SOCKS5 and HTTP over TURN/STUN proxy",
+            "homepage": null,
             "id": 254120370,
             "language": "Go",
+            "license": "MIT",
             "last_commit": "2023-12-30T17:54:31Z",
+            "open_issues": 1,
             "owner": "staaldraad",
             "repo": "turner",
-            "stars": 199
+            "stars": 199,
+            "topics": []
           },
           "first_seen": "2026-08-28T04:24:01.519Z"
         },
@@ -368,12 +581,21 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "SIP swiss army knife",
+            "homepage": null,
             "id": 20667496,
             "language": "C",
+            "license": "GPL-2.0",
             "last_commit": "2025-05-26T20:04:22Z",
+            "open_issues": 25,
             "owner": "nils-ohlmeier",
             "repo": "sipsak",
-            "stars": 176
+            "stars": 176,
+            "topics": [
+              "c",
+              "command-line-tool",
+              "sip"
+            ]
           },
           "first_seen": "2026-08-28T04:24:01.519Z"
         },
@@ -384,12 +606,25 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "VOIP Security Audit Framework",
+            "homepage": null,
             "id": 34702333,
             "language": "Ruby",
+            "license": "MIT",
             "last_commit": "2018-01-22T18:29:16Z",
+            "open_issues": 2,
             "owner": "sonnyattck",
             "repo": "vsaudit",
-            "stars": 109
+            "stars": 109,
+            "topics": [
+              "penetration-testing",
+              "ruby",
+              "security",
+              "security-audit",
+              "security-tools",
+              "sip",
+              "voip"
+            ]
           },
           "first_seen": "2026-08-28T04:24:01.519Z"
         },
@@ -400,12 +635,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "VoIPShark is a open source VoIP Analysis Platform which will allow people to analyze live or stored VoIP traffic, easily decrypt encrypted SRTP stream, perform macro analysis, generate summary specific to VoIP traffic/nodes and export calls/SMS/DTMF in popular user friendly file formats.",
+            "homepage": null,
             "id": 189598801,
             "language": "Lua",
+            "license": null,
             "last_commit": "2020-02-18T07:49:04Z",
+            "open_issues": 2,
             "owner": "pentesteracademy",
             "repo": "voipshark",
-            "stars": 93
+            "stars": 93,
+            "topics": []
           },
           "first_seen": "2026-08-28T04:24:01.519Z"
         },
@@ -416,12 +656,17 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "VoIP Hopper Network Penetration Testing Tool - Jumping from one VLAN to the next!  A network infrastructure penetration testing security tool.  A tool to test for the (in)security of VLANS.  It can mimic the behavior of IP Phones to better understand business risks within an IP Telephony network infrastructure.  VoIP Hopper is included in Kali Linux.  This site is for up-to-date code.  Documentation website:  ",
+            "homepage": "http://voiphopper.sourceforge.net",
             "id": 9847893,
             "language": "Roff",
+            "license": "GPL-3.0",
             "last_commit": "2024-01-30T16:22:00Z",
+            "open_issues": 0,
             "owner": "iknowjason",
             "repo": "voiphopper",
-            "stars": 82
+            "stars": 82,
+            "topics": []
           },
           "first_seen": "2026-08-28T04:24:01.519Z"
         },
@@ -432,12 +677,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": null,
             "id": 90842564,
             "language": "C",
+            "license": null,
             "last_commit": "2017-09-05T15:06:30Z",
+            "open_issues": 0,
             "owner": "kapejod",
             "repo": "rtpnatscan",
-            "stars": 25
+            "stars": 25,
+            "topics": [
+              "asterisk",
+              "scanner",
+              "security",
+              "voip"
+            ]
           },
           "first_seen": "2026-08-28T04:24:01.519Z"
         },
@@ -448,12 +703,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": null,
             "id": 933168966,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2025-03-04T01:28:07Z",
+            "open_issues": 0,
             "owner": "relayhawk",
             "repo": "twilio-security-scanner",
-            "stars": 24
+            "stars": 24,
+            "topics": []
           },
           "first_seen": "2026-08-28T04:24:01.519Z"
         },
@@ -464,12 +724,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A TURN test suite for testing and (ab)using TURN servers",
+            "homepage": "https://blog.syss.com/posts/turnado/",
             "id": 1272925206,
             "language": "Go",
+            "license": "MIT",
             "last_commit": "2026-07-23T13:55:17Z",
+            "open_issues": 0,
             "owner": "SySS-Research",
             "repo": "TURNado",
-            "stars": 15
+            "stars": 15,
+            "topics": []
           },
           "first_seen": "2026-08-28T04:24:01.519Z"
         }
@@ -486,12 +751,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "DVRTC (Damn Vulnerable Real-Time Communications) is an intentionally vulnerable VoIP/WebRTC platform for security training and research, with isolated lab scenarios covering SIP enumeration, digest leaks, RTP bleed, SQL injection, XSS, and TURN relay abuse.",
+            "homepage": null,
             "id": 1191521981,
             "language": "JavaScript",
+            "license": "NOASSERTION",
             "last_commit": "2026-06-17T05:26:23Z",
+            "open_issues": 0,
             "owner": "EnableSecurity",
             "repo": "DVRTC",
-            "stars": 29
+            "stars": 29,
+            "topics": []
           },
           "first_seen": "2026-08-28T04:24:01.519Z"
         },
@@ -502,12 +772,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A practical approach to studying attack techniques against Real-Time Communication infrastructures",
+            "homepage": null,
             "id": 1100477323,
             "language": "Lua",
+            "license": null,
             "last_commit": "2026-03-23T15:07:45Z",
+            "open_issues": 0,
             "owner": "WebRTC-Thesis-Unina",
             "repo": "RTC_Attacks",
-            "stars": 3
+            "stars": 3,
+            "topics": []
           },
           "first_seen": "2026-08-28T04:24:01.519Z"
         }
@@ -524,12 +799,26 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Awesome-Cellular-Hacking",
+            "homepage": null,
             "id": 187701900,
             "language": null,
+            "license": null,
             "last_commit": "2026-08-28T17:45:58Z",
+            "open_issues": 2,
             "owner": "W00t3k",
             "repo": "Awesome-Cellular-Hacking",
-            "stars": 4002
+            "stars": 4002,
+            "topics": [
+              "eviltwin",
+              "gsm",
+              "gsm-network",
+              "hacking",
+              "lte",
+              "lte-evil-twin",
+              "rogue-bts",
+              "sdr"
+            ]
           },
           "first_seen": "2026-08-28T04:24:01.519Z"
         },
@@ -540,12 +829,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A curated list of telco resources and projects",
+            "homepage": null,
             "id": 199304591,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2026-08-16T19:14:06Z",
+            "open_issues": 0,
             "owner": "ravens",
             "repo": "awesome-telco",
-            "stars": 995
+            "stars": 995,
+            "topics": []
           },
           "first_seen": "2026-08-28T04:24:01.519Z"
         },
@@ -556,12 +850,27 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": ":satellite: A curated list of awesome Real Time Communications resources",
+            "homepage": null,
             "id": 222767354,
             "language": null,
+            "license": "CC0-1.0",
             "last_commit": "2026-05-18T19:39:18Z",
+            "open_issues": 8,
             "owner": "rtckit",
             "repo": "awesome-rtc",
-            "stars": 494
+            "stars": 494,
+            "topics": [
+              "awesome",
+              "awesome-list",
+              "real-time-communications",
+              "rtc",
+              "sip",
+              "telecommunications",
+              "telephony",
+              "voip",
+              "webrtc"
+            ]
           },
           "first_seen": "2026-08-28T04:24:01.519Z"
         }
@@ -570,15 +879,34 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-29T02:51:38.392Z",
+    "last_updated": "2026-08-29T04:46:13.279Z",
     "original_repository_info": {
       "archived": false,
+      "description": "a list of awesome resources related to security and hacking of VoIP, WebRTC and VoLTE",
+      "homepage": "https://www.enablesecurity.com/",
       "id": 259825257,
       "language": null,
+      "license": "CC0-1.0",
       "last_commit": "2026-06-30T08:25:18Z",
+      "open_issues": 0,
       "owner": "EnableSecurity",
       "repo": "awesome-rtc-hacking",
-      "stars": 549
+      "stars": 549,
+      "topics": [
+        "awesome",
+        "awesome-list",
+        "awesome-lists",
+        "bug-bounty",
+        "communications-hacking",
+        "fuzzing",
+        "hacking",
+        "hacking-voip",
+        "security",
+        "sip-security",
+        "voip-security",
+        "volte",
+        "webrtc"
+      ]
     },
     "original_repository_sha": "8d615dabb106bbfef2dc232a5a390cb060510cdc",
     "enhanced_repository": "enhansome/enhansome-rtc-hacking",
