@@ -238,10 +238,10 @@
             "language": "Ruby",
             "license": "NOASSERTION",
             "last_commit": "2026-08-28T17:59:06Z",
-            "open_issues": 596,
+            "open_issues": 599,
             "owner": "rapid7",
             "repo": "metasploit-framework",
-            "stars": 38914,
+            "stars": 38918,
             "topics": [
               "hacktoberfest"
             ]
@@ -264,7 +264,7 @@
             "open_issues": 0,
             "owner": "EnableSecurity",
             "repo": "sipvicious",
-            "stars": 1099,
+            "stars": 1100,
             "topics": [
               "audit-sip",
               "hacking-tools",
@@ -448,11 +448,11 @@
             "id": 440819916,
             "language": "Go",
             "license": "GPL-3.0",
-            "last_commit": "2026-08-27T10:34:02Z",
+            "last_commit": "2026-08-30T07:47:01Z",
             "open_issues": 1,
             "owner": "miconda",
             "repo": "sipexer",
-            "stars": 417,
+            "stars": 416,
             "topics": [
               "go",
               "golang",
@@ -544,7 +544,7 @@
             "id": 448095082,
             "language": "Python",
             "license": "Unlicense",
-            "last_commit": "2026-08-29T00:49:57Z",
+            "last_commit": "2026-08-30T22:39:28Z",
             "open_issues": 8,
             "owner": "trustedsec",
             "repo": "SeeYouCM-Thief",
@@ -808,7 +808,7 @@
             "open_issues": 2,
             "owner": "W00t3k",
             "repo": "Awesome-Cellular-Hacking",
-            "stars": 4004,
+            "stars": 4005,
             "topics": [
               "eviltwin",
               "gsm",
@@ -879,7 +879,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-29T22:42:04.670Z",
+    "last_updated": "2026-08-30T22:50:28.124Z",
     "original_repository_info": {
       "archived": false,
       "description": "a list of awesome resources related to security and hacking of VoIP, WebRTC and VoLTE",

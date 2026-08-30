@@ -91,18 +91,18 @@ To the extent possible under law, the authors have waived all copyright and rela
 
 ## Open-source tools
 
-* [Metasploit auxiliary modules](https://github.com/rapid7/metasploit-framework/tree/master/modules/auxiliary/voip) ⭐ 38,914 | 🐛 596 | 🌐 Ruby | 📅 2026-08-28
-* [SIPVicious OSS](https://github.com/EnableSecurity/sipvicious/) ⭐ 1,099 | 🐛 0 | 🌐 Python | 📅 2026-07-10 - A set of tools to audit SIP based systems
+* [Metasploit auxiliary modules](https://github.com/rapid7/metasploit-framework/tree/master/modules/auxiliary/voip) ⭐ 38,918 | 🐛 599 | 🌐 Ruby | 📅 2026-08-28
+* [SIPVicious OSS](https://github.com/EnableSecurity/sipvicious/) ⭐ 1,100 | 🐛 0 | 🌐 Python | 📅 2026-07-10 - A set of tools to audit SIP based systems
 * [stunner](https://github.com/firefart/stunner) ⭐ 862 | 🐛 4 | 🌐 Go | 📅 2026-08-26 -  a tool to test and exploit STUN, TURN and TURN over TCP servers.
 * [SIPPTS](https://github.com/Pepelux/sippts) ⭐ 571 | 🐛 0 | 🌐 Python | 📅 2026-06-26 - Another set of tools to audit VoIP servers and devices using SIP protocol.
 * [TURNt](https://github.com/praetorian-inc/turnt) ⭐ 435 | 🐛 2 | 🌐 Go | 📅 2026-06-09 - PoC from Praetorian that abuses TURN servers (e.g. Zoom and Teams) to tunnel command-and-control traffic over web-conferencing infrastructure (the "Ghost Calls" technique).
 * [Mr.SIP](https://github.com/meliht/Mr.SIP) ⭐ 431 | 🐛 1 | 🌐 Python | 📅 2026-08-03 - SIP based audit and attack tool.
 * [VIPROY](https://github.com/fozavci/viproy-voipkit) ⭐ 420 | 🐛 19 | 🌐 Ruby | 📅 2022-02-04 - VoIP pentest framework which can be used with the metasploit-framework.
-* [sipexer](https://github.com/miconda/sipexer) ⭐ 417 | 🐛 1 | 🌐 Go | 📅 2026-08-27 - modern and flexible SIP command line client for testing SIP servers and devices, with custom requests, registration floods, stateful dialogues and lightweight fuzzing.
+* [sipexer](https://github.com/miconda/sipexer) ⭐ 416 | 🐛 1 | 🌐 Go | 📅 2026-08-30 - modern and flexible SIP command line client for testing SIP servers and devices, with custom requests, registration floods, stateful dialogues and lightweight fuzzing.
 * [SigPloit](https://github.com/SigPloiter/SigPloit) ⭐ 389 | 🐛 59 | 🌐 Java | 📅 2019-12-17 - Tool which covers all used SS7, GTP (3G), Diameter (4G) or even SIP protocols for IMS and VoLTE infrastructures.
 * [H26Forge](https://github.com/h26forge/h26forge) ⭐ 333 | 🐛 3 | 🌐 Rust | 📅 2026-07-14 - generates and fuzzes syntactically valid but spec-non-compliant H.264 video to find decoder vulnerabilities (relevant to WebRTC video attack surface).
 * [bluebox-ng](https://github.com/jesusprubio/bluebox-ng) ⭐ 264 | 🐛 1 | 🌐 Go | 📅 2026-03-06 - Pentesting framework using Node.js powers, focused in VoIP. (public archive)
-* [SeeYouCM Thief](https://github.com/trustedsec/SeeYouCM-Thief) ⭐ 204 | 🐛 8 | 🌐 Python | 📅 2026-08-29 - download and parse configuration files from Cisco phone systems searching for SSH credentials
+* [SeeYouCM Thief](https://github.com/trustedsec/SeeYouCM-Thief) ⭐ 204 | 🐛 8 | 🌐 Python | 📅 2026-08-30 - download and parse configuration files from Cisco phone systems searching for SSH credentials
 * [Turner](https://github.com/staaldraad/turner) ⭐ 199 | 🐛 1 | 🌐 Go | 📅 2023-12-30 - PoC for tunnelling HTTP over a permissive/open TURN server.
 * [sipsak](https://github.com/nils-ohlmeier/sipsak) ⭐ 176 | 🐛 25 | 🌐 C | 📅 2025-05-26 - SIP swiss army knife, has some features that can be used for security testing (e.g. flood more or random mode)
 * [vsaudit](https://github.com/eurialo/vsaudit) ⭐ 109 | 🐛 2 | 🌐 Ruby | 📅 2018-01-22 - VoIP security assessment framework.
@@ -182,10 +182,10 @@ The following are generic or common vulnerabilities that are related to either s
 
 ## Related lists
 
-* [Awesome Cellular Hacking](https://github.com/W00t3k/Awesome-Cellular-Hacking) ⭐ 4,004 | 🐛 2 | 📅 2026-08-28
+* [Awesome Cellular Hacking](https://github.com/W00t3k/Awesome-Cellular-Hacking) ⭐ 4,005 | 🐛 2 | 📅 2026-08-28
 * [Awesome Telco](https://github.com/ravens/awesome-telco) ⭐ 995 | 🐛 0 | 🌐 Python | 📅 2026-08-16
 * [Awesome RTC](https://github.com/rtckit/awesome-rtc/) ⭐ 494 | 🐛 8 | 📅 2026-05-18
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-29._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-30._
