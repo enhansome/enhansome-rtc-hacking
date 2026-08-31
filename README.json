@@ -237,11 +237,11 @@
             "id": 2293158,
             "language": "Ruby",
             "license": "NOASSERTION",
-            "last_commit": "2026-08-28T17:59:06Z",
-            "open_issues": 599,
+            "last_commit": "2026-08-31T01:19:27Z",
+            "open_issues": 601,
             "owner": "rapid7",
             "repo": "metasploit-framework",
-            "stars": 38918,
+            "stars": 38924,
             "topics": [
               "hacktoberfest"
             ]
@@ -448,7 +448,7 @@
             "id": 440819916,
             "language": "Go",
             "license": "GPL-3.0",
-            "last_commit": "2026-08-30T07:47:01Z",
+            "last_commit": "2026-08-31T10:18:17Z",
             "open_issues": 1,
             "owner": "miconda",
             "repo": "sipexer",
@@ -544,8 +544,8 @@
             "id": 448095082,
             "language": "Python",
             "license": "Unlicense",
-            "last_commit": "2026-08-30T22:39:28Z",
-            "open_issues": 8,
+            "last_commit": "2026-08-31T00:24:10Z",
+            "open_issues": 9,
             "owner": "trustedsec",
             "repo": "SeeYouCM-Thief",
             "stars": 204,
@@ -808,7 +808,7 @@
             "open_issues": 2,
             "owner": "W00t3k",
             "repo": "Awesome-Cellular-Hacking",
-            "stars": 4005,
+            "stars": 4007,
             "topics": [
               "eviltwin",
               "gsm",
@@ -835,10 +835,10 @@
             "language": "Python",
             "license": "MIT",
             "last_commit": "2026-08-16T19:14:06Z",
-            "open_issues": 0,
+            "open_issues": 1,
             "owner": "ravens",
             "repo": "awesome-telco",
-            "stars": 995,
+            "stars": 997,
             "topics": []
           },
           "first_seen": "2026-08-28T04:24:01.519Z"
@@ -879,7 +879,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-30T22:50:28.124Z",
+    "last_updated": "2026-08-31T23:57:02.649Z",
     "original_repository_info": {
       "archived": false,
       "description": "a list of awesome resources related to security and hacking of VoIP, WebRTC and VoLTE",
