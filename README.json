@@ -238,10 +238,10 @@
             "language": "Ruby",
             "license": "NOASSERTION",
             "last_commit": "2026-09-03T17:29:30Z",
-            "open_issues": 605,
+            "open_issues": 607,
             "owner": "rapid7",
             "repo": "metasploit-framework",
-            "stars": 38931,
+            "stars": 38944,
             "topics": [
               "hacktoberfest"
             ]
@@ -264,7 +264,7 @@
             "open_issues": 0,
             "owner": "EnableSecurity",
             "repo": "sipvicious",
-            "stars": 1100,
+            "stars": 1101,
             "topics": [
               "audit-sip",
               "hacking-tools",
@@ -448,7 +448,7 @@
             "id": 440819916,
             "language": "Go",
             "license": "GPL-3.0",
-            "last_commit": "2026-09-03T07:28:47Z",
+            "last_commit": "2026-09-04T07:58:14Z",
             "open_issues": 1,
             "owner": "miconda",
             "repo": "sipexer",
@@ -760,7 +760,7 @@
             "open_issues": 0,
             "owner": "EnableSecurity",
             "repo": "DVRTC",
-            "stars": 29,
+            "stars": 30,
             "topics": []
           },
           "first_seen": "2026-08-28T04:24:01.519Z"
@@ -808,7 +808,7 @@
             "open_issues": 2,
             "owner": "W00t3k",
             "repo": "Awesome-Cellular-Hacking",
-            "stars": 4014,
+            "stars": 4017,
             "topics": [
               "eviltwin",
               "gsm",
@@ -838,7 +838,7 @@
             "open_issues": 1,
             "owner": "ravens",
             "repo": "awesome-telco",
-            "stars": 997,
+            "stars": 999,
             "topics": []
           },
           "first_seen": "2026-08-28T04:24:01.519Z"
@@ -879,7 +879,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-03T22:39:50.633Z",
+    "last_updated": "2026-09-04T22:25:31.119Z",
     "original_repository_info": {
       "archived": false,
       "description": "a list of awesome resources related to security and hacking of VoIP, WebRTC and VoLTE",
@@ -891,7 +891,7 @@
       "open_issues": 0,
       "owner": "EnableSecurity",
       "repo": "awesome-rtc-hacking",
-      "stars": 551,
+      "stars": 553,
       "topics": [
         "awesome",
         "awesome-list",
