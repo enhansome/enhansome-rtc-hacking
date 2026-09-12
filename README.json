@@ -241,7 +241,7 @@
             "open_issues": 606,
             "owner": "rapid7",
             "repo": "metasploit-framework",
-            "stars": 38986,
+            "stars": 38995,
             "topics": [
               "hacktoberfest"
             ]
@@ -264,7 +264,7 @@
             "open_issues": 0,
             "owner": "EnableSecurity",
             "repo": "sipvicious",
-            "stars": 1101,
+            "stars": 1102,
             "topics": [
               "audit-sip",
               "hacking-tools",
@@ -298,7 +298,7 @@
             "open_issues": 4,
             "owner": "firefart",
             "repo": "stunner",
-            "stars": 863,
+            "stars": 864,
             "topics": [
               "exploit",
               "misconfiguration",
@@ -328,7 +328,7 @@
             "open_issues": 0,
             "owner": "Pepelux",
             "repo": "sippts",
-            "stars": 571,
+            "stars": 572,
             "topics": [
               "asterisk",
               "elastix",
@@ -452,7 +452,7 @@
             "open_issues": 1,
             "owner": "miconda",
             "repo": "sipexer",
-            "stars": 417,
+            "stars": 418,
             "topics": [
               "go",
               "golang",
@@ -808,7 +808,7 @@
             "open_issues": 2,
             "owner": "W00t3k",
             "repo": "Awesome-Cellular-Hacking",
-            "stars": 4023,
+            "stars": 4025,
             "topics": [
               "eviltwin",
               "gsm",
@@ -834,11 +834,11 @@
             "id": 199304591,
             "language": "Python",
             "license": "MIT",
-            "last_commit": "2026-09-09T13:48:30Z",
+            "last_commit": "2026-09-12T09:13:17Z",
             "open_issues": 0,
             "owner": "ravens",
             "repo": "awesome-telco",
-            "stars": 1003,
+            "stars": 1004,
             "topics": []
           },
           "first_seen": "2026-08-28T04:24:01.519Z"
@@ -879,7 +879,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-11T22:40:53.129Z",
+    "last_updated": "2026-09-12T22:24:57.477Z",
     "original_repository_info": {
       "archived": false,
       "description": "a list of awesome resources related to security and hacking of VoIP, WebRTC and VoLTE",
