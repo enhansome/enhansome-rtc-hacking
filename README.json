@@ -238,10 +238,10 @@
             "language": "Ruby",
             "license": "NOASSERTION",
             "last_commit": "2026-09-11T19:24:11Z",
-            "open_issues": 606,
+            "open_issues": 610,
             "owner": "rapid7",
             "repo": "metasploit-framework",
-            "stars": 38995,
+            "stars": 39003,
             "topics": [
               "hacktoberfest"
             ]
@@ -324,7 +324,7 @@
             "id": 35772572,
             "language": "Python",
             "license": "GPL-3.0",
-            "last_commit": "2026-06-26T08:34:15Z",
+            "last_commit": "2026-09-13T18:54:46Z",
             "open_issues": 0,
             "owner": "Pepelux",
             "repo": "sippts",
@@ -712,7 +712,7 @@
             "open_issues": 0,
             "owner": "relayhawk",
             "repo": "twilio-security-scanner",
-            "stars": 24,
+            "stars": 23,
             "topics": []
           },
           "first_seen": "2026-08-28T04:24:01.519Z"
@@ -808,7 +808,7 @@
             "open_issues": 2,
             "owner": "W00t3k",
             "repo": "Awesome-Cellular-Hacking",
-            "stars": 4025,
+            "stars": 4027,
             "topics": [
               "eviltwin",
               "gsm",
@@ -838,7 +838,7 @@
             "open_issues": 0,
             "owner": "ravens",
             "repo": "awesome-telco",
-            "stars": 1004,
+            "stars": 1005,
             "topics": []
           },
           "first_seen": "2026-08-28T04:24:01.519Z"
@@ -879,7 +879,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-12T22:24:57.477Z",
+    "last_updated": "2026-09-13T22:29:31.811Z",
     "original_repository_info": {
       "archived": false,
       "description": "a list of awesome resources related to security and hacking of VoIP, WebRTC and VoLTE",
