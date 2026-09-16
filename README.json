@@ -237,11 +237,11 @@
             "id": 2293158,
             "language": "Ruby",
             "license": "NOASSERTION",
-            "last_commit": "2026-09-15T10:37:23Z",
-            "open_issues": 607,
+            "last_commit": "2026-09-16T10:07:14Z",
+            "open_issues": 606,
             "owner": "rapid7",
             "repo": "metasploit-framework",
-            "stars": 39013,
+            "stars": 39019,
             "topics": [
               "hacktoberfest"
             ]
@@ -449,7 +449,7 @@
             "language": "Go",
             "license": "GPL-3.0",
             "last_commit": "2026-09-11T08:11:42Z",
-            "open_issues": 1,
+            "open_issues": 2,
             "owner": "miconda",
             "repo": "sipexer",
             "stars": 419,
@@ -808,7 +808,7 @@
             "open_issues": 2,
             "owner": "W00t3k",
             "repo": "Awesome-Cellular-Hacking",
-            "stars": 4028,
+            "stars": 4029,
             "topics": [
               "eviltwin",
               "gsm",
@@ -838,7 +838,7 @@
             "open_issues": 0,
             "owner": "ravens",
             "repo": "awesome-telco",
-            "stars": 1007,
+            "stars": 1010,
             "topics": []
           },
           "first_seen": "2026-08-28T04:24:01.519Z"
@@ -859,7 +859,7 @@
             "open_issues": 8,
             "owner": "rtckit",
             "repo": "awesome-rtc",
-            "stars": 496,
+            "stars": 497,
             "topics": [
               "awesome",
               "awesome-list",
@@ -879,7 +879,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-15T22:59:15.517Z",
+    "last_updated": "2026-09-16T23:03:32.686Z",
     "original_repository_info": {
       "archived": false,
       "description": "a list of awesome resources related to security and hacking of VoIP, WebRTC and VoLTE",
@@ -891,7 +891,7 @@
       "open_issues": 0,
       "owner": "EnableSecurity",
       "repo": "awesome-rtc-hacking",
-      "stars": 553,
+      "stars": 554,
       "topics": [
         "awesome",
         "awesome-list",
