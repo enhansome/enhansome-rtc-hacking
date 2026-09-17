@@ -237,11 +237,11 @@
             "id": 2293158,
             "language": "Ruby",
             "license": "NOASSERTION",
-            "last_commit": "2026-09-16T10:07:14Z",
-            "open_issues": 606,
+            "last_commit": "2026-09-17T16:01:43Z",
+            "open_issues": 602,
             "owner": "rapid7",
             "repo": "metasploit-framework",
-            "stars": 39019,
+            "stars": 39020,
             "topics": [
               "hacktoberfest"
             ]
@@ -298,7 +298,7 @@
             "open_issues": 4,
             "owner": "firefart",
             "repo": "stunner",
-            "stars": 866,
+            "stars": 865,
             "topics": [
               "exploit",
               "misconfiguration",
@@ -370,7 +370,7 @@
             "open_issues": 2,
             "owner": "praetorian-inc",
             "repo": "turnt",
-            "stars": 438,
+            "stars": 437,
             "topics": []
           },
           "first_seen": "2026-08-28T04:24:01.519Z"
@@ -417,6 +417,35 @@
         },
         {
           "node_type": "item",
+          "title": "sipexer",
+          "description": "modern and flexible SIP command line client for testing SIP servers and devices, with custom requests, registration floods, stateful dialogues and lightweight fuzzing.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "Modern and flexible SIP/VoIP cli tool",
+            "homepage": null,
+            "id": 440819916,
+            "language": "Go",
+            "license": "GPL-3.0",
+            "last_commit": "2026-09-17T11:05:40Z",
+            "open_issues": 1,
+            "owner": "miconda",
+            "repo": "sipexer",
+            "stars": 423,
+            "topics": [
+              "go",
+              "golang",
+              "sip",
+              "telephony",
+              "voip",
+              "webrtc",
+              "websocket"
+            ]
+          },
+          "first_seen": "2026-08-28T04:24:01.519Z"
+        },
+        {
+          "node_type": "item",
           "title": "VIPROY",
           "description": "VoIP pentest framework which can be used with the metasploit-framework.",
           "children": [],
@@ -433,35 +462,6 @@
             "repo": "viproy-voipkit",
             "stars": 420,
             "topics": []
-          },
-          "first_seen": "2026-08-28T04:24:01.519Z"
-        },
-        {
-          "node_type": "item",
-          "title": "sipexer",
-          "description": "modern and flexible SIP command line client for testing SIP servers and devices, with custom requests, registration floods, stateful dialogues and lightweight fuzzing.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "Modern and flexible SIP/VoIP cli tool",
-            "homepage": null,
-            "id": 440819916,
-            "language": "Go",
-            "license": "GPL-3.0",
-            "last_commit": "2026-09-11T08:11:42Z",
-            "open_issues": 2,
-            "owner": "miconda",
-            "repo": "sipexer",
-            "stars": 419,
-            "topics": [
-              "go",
-              "golang",
-              "sip",
-              "telephony",
-              "voip",
-              "webrtc",
-              "websocket"
-            ]
           },
           "first_seen": "2026-08-28T04:24:01.519Z"
         },
@@ -569,7 +569,7 @@
             "open_issues": 1,
             "owner": "staaldraad",
             "repo": "turner",
-            "stars": 200,
+            "stars": 199,
             "topics": []
           },
           "first_seen": "2026-08-28T04:24:01.519Z"
@@ -808,7 +808,7 @@
             "open_issues": 2,
             "owner": "W00t3k",
             "repo": "Awesome-Cellular-Hacking",
-            "stars": 4029,
+            "stars": 4031,
             "topics": [
               "eviltwin",
               "gsm",
@@ -879,7 +879,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-16T23:03:32.686Z",
+    "last_updated": "2026-09-17T22:56:14.189Z",
     "original_repository_info": {
       "archived": false,
       "description": "a list of awesome resources related to security and hacking of VoIP, WebRTC and VoLTE",
