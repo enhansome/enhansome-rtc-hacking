@@ -238,10 +238,10 @@
             "language": "Ruby",
             "license": "NOASSERTION",
             "last_commit": "2026-09-17T16:01:43Z",
-            "open_issues": 602,
+            "open_issues": 607,
             "owner": "rapid7",
             "repo": "metasploit-framework",
-            "stars": 39020,
+            "stars": 39025,
             "topics": [
               "hacktoberfest"
             ]
@@ -391,7 +391,7 @@
             "open_issues": 1,
             "owner": "meliht",
             "repo": "Mr.SIP",
-            "stars": 431,
+            "stars": 433,
             "topics": [
               "caller-id-spoofing",
               "cracking",
@@ -431,7 +431,7 @@
             "open_issues": 1,
             "owner": "miconda",
             "repo": "sipexer",
-            "stars": 423,
+            "stars": 424,
             "topics": [
               "go",
               "golang",
@@ -481,7 +481,7 @@
             "open_issues": 59,
             "owner": "SigPloiter",
             "repo": "SigPloit",
-            "stars": 392,
+            "stars": 393,
             "topics": []
           },
           "first_seen": "2026-08-28T04:24:01.519Z"
@@ -502,7 +502,7 @@
             "open_issues": 3,
             "owner": "h26forge",
             "repo": "h26forge",
-            "stars": 333,
+            "stars": 334,
             "topics": []
           },
           "first_seen": "2026-08-28T04:24:01.519Z"
@@ -808,7 +808,7 @@
             "open_issues": 2,
             "owner": "W00t3k",
             "repo": "Awesome-Cellular-Hacking",
-            "stars": 4031,
+            "stars": 4033,
             "topics": [
               "eviltwin",
               "gsm",
@@ -879,7 +879,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-17T22:56:14.189Z",
+    "last_updated": "2026-09-18T22:41:15.666Z",
     "original_repository_info": {
       "archived": false,
       "description": "a list of awesome resources related to security and hacking of VoIP, WebRTC and VoLTE",
