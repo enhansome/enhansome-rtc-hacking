@@ -238,10 +238,10 @@
             "language": "Ruby",
             "license": "NOASSERTION",
             "last_commit": "2026-09-21T19:37:33Z",
-            "open_issues": 613,
+            "open_issues": 615,
             "owner": "rapid7",
             "repo": "metasploit-framework",
-            "stars": 39038,
+            "stars": 39046,
             "topics": [
               "hacktoberfest"
             ]
@@ -298,7 +298,7 @@
             "open_issues": 4,
             "owner": "firefart",
             "repo": "stunner",
-            "stars": 866,
+            "stars": 865,
             "topics": [
               "exploit",
               "misconfiguration",
@@ -427,7 +427,7 @@
             "id": 440819916,
             "language": "Go",
             "license": "GPL-3.0",
-            "last_commit": "2026-09-17T11:05:40Z",
+            "last_commit": "2026-09-23T09:22:13Z",
             "open_issues": 1,
             "owner": "miconda",
             "repo": "sipexer",
@@ -481,7 +481,7 @@
             "open_issues": 59,
             "owner": "SigPloiter",
             "repo": "SigPloit",
-            "stars": 394,
+            "stars": 395,
             "topics": []
           },
           "first_seen": "2026-08-28T04:24:01.519Z"
@@ -502,7 +502,7 @@
             "open_issues": 3,
             "owner": "h26forge",
             "repo": "h26forge",
-            "stars": 334,
+            "stars": 332,
             "topics": []
           },
           "first_seen": "2026-08-28T04:24:01.519Z"
@@ -569,7 +569,7 @@
             "open_issues": 1,
             "owner": "staaldraad",
             "repo": "turner",
-            "stars": 199,
+            "stars": 198,
             "topics": []
           },
           "first_seen": "2026-08-28T04:24:01.519Z"
@@ -879,7 +879,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-22T23:03:08.236Z",
+    "last_updated": "2026-09-23T23:00:39.133Z",
     "original_repository_info": {
       "archived": false,
       "description": "a list of awesome resources related to security and hacking of VoIP, WebRTC and VoLTE",
