@@ -237,11 +237,11 @@
             "id": 2293158,
             "language": "Ruby",
             "license": "NOASSERTION",
-            "last_commit": "2026-09-21T19:37:33Z",
+            "last_commit": "2026-09-24T19:34:42Z",
             "open_issues": 615,
             "owner": "rapid7",
             "repo": "metasploit-framework",
-            "stars": 39046,
+            "stars": 39053,
             "topics": [
               "hacktoberfest"
             ]
@@ -264,7 +264,7 @@
             "open_issues": 0,
             "owner": "EnableSecurity",
             "repo": "sipvicious",
-            "stars": 1104,
+            "stars": 1103,
             "topics": [
               "audit-sip",
               "hacking-tools",
@@ -356,27 +356,6 @@
         },
         {
           "node_type": "item",
-          "title": "TURNt",
-          "description": "PoC from Praetorian that abuses TURN servers (e.g. Zoom and Teams) to tunnel command-and-control traffic over web-conferencing infrastructure (the \"Ghost Calls\" technique).",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "A tool designed for smuggling interactive command and control traffic through legitimate TURN servers hosted by reputable providers such as Zoom.",
-            "homepage": null,
-            "id": 1028508943,
-            "language": "Go",
-            "license": "Apache-2.0",
-            "last_commit": "2026-06-09T11:46:23Z",
-            "open_issues": 2,
-            "owner": "praetorian-inc",
-            "repo": "turnt",
-            "stars": 437,
-            "topics": []
-          },
-          "first_seen": "2026-08-28T04:24:01.519Z"
-        },
-        {
-          "node_type": "item",
           "title": "Mr.SIP",
           "description": "SIP based audit and attack tool.",
           "children": [],
@@ -391,7 +370,7 @@
             "open_issues": 1,
             "owner": "meliht",
             "repo": "Mr.SIP",
-            "stars": 436,
+            "stars": 437,
             "topics": [
               "caller-id-spoofing",
               "cracking",
@@ -417,6 +396,27 @@
         },
         {
           "node_type": "item",
+          "title": "TURNt",
+          "description": "PoC from Praetorian that abuses TURN servers (e.g. Zoom and Teams) to tunnel command-and-control traffic over web-conferencing infrastructure (the \"Ghost Calls\" technique).",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "A tool designed for smuggling interactive command and control traffic through legitimate TURN servers hosted by reputable providers such as Zoom.",
+            "homepage": null,
+            "id": 1028508943,
+            "language": "Go",
+            "license": "Apache-2.0",
+            "last_commit": "2026-06-09T11:46:23Z",
+            "open_issues": 2,
+            "owner": "praetorian-inc",
+            "repo": "turnt",
+            "stars": 436,
+            "topics": []
+          },
+          "first_seen": "2026-08-28T04:24:01.519Z"
+        },
+        {
+          "node_type": "item",
           "title": "sipexer",
           "description": "modern and flexible SIP command line client for testing SIP servers and devices, with custom requests, registration floods, stateful dialogues and lightweight fuzzing.",
           "children": [],
@@ -427,7 +427,7 @@
             "id": 440819916,
             "language": "Go",
             "license": "GPL-3.0",
-            "last_commit": "2026-09-23T09:22:13Z",
+            "last_commit": "2026-09-24T11:46:40Z",
             "open_issues": 1,
             "owner": "miconda",
             "repo": "sipexer",
@@ -481,7 +481,7 @@
             "open_issues": 59,
             "owner": "SigPloiter",
             "repo": "SigPloit",
-            "stars": 395,
+            "stars": 396,
             "topics": []
           },
           "first_seen": "2026-08-28T04:24:01.519Z"
@@ -808,7 +808,7 @@
             "open_issues": 2,
             "owner": "W00t3k",
             "repo": "Awesome-Cellular-Hacking",
-            "stars": 4035,
+            "stars": 4038,
             "topics": [
               "eviltwin",
               "gsm",
@@ -879,7 +879,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-23T23:00:39.133Z",
+    "last_updated": "2026-09-24T23:15:57.988Z",
     "original_repository_info": {
       "archived": false,
       "description": "a list of awesome resources related to security and hacking of VoIP, WebRTC and VoLTE",
