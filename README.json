@@ -241,7 +241,7 @@
             "open_issues": 618,
             "owner": "rapid7",
             "repo": "metasploit-framework",
-            "stars": 39061,
+            "stars": 39064,
             "topics": [
               "hacktoberfest"
             ]
@@ -808,7 +808,7 @@
             "open_issues": 2,
             "owner": "W00t3k",
             "repo": "Awesome-Cellular-Hacking",
-            "stars": 4042,
+            "stars": 4045,
             "topics": [
               "eviltwin",
               "gsm",
@@ -879,7 +879,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-26T23:00:15.238Z",
+    "last_updated": "2026-09-27T23:10:27.859Z",
     "original_repository_info": {
       "archived": false,
       "description": "a list of awesome resources related to security and hacking of VoIP, WebRTC and VoLTE",
@@ -891,7 +891,7 @@
       "open_issues": 0,
       "owner": "EnableSecurity",
       "repo": "awesome-rtc-hacking",
-      "stars": 553,
+      "stars": 554,
       "topics": [
         "awesome",
         "awesome-list",
