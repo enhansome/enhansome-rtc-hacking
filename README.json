@@ -237,11 +237,11 @@
             "id": 2293158,
             "language": "Ruby",
             "license": "NOASSERTION",
-            "last_commit": "2026-09-30T12:34:04Z",
-            "open_issues": 617,
+            "last_commit": "2026-10-01T14:46:28Z",
+            "open_issues": 610,
             "owner": "rapid7",
             "repo": "metasploit-framework",
-            "stars": 39071,
+            "stars": 39076,
             "topics": [
               "hacktoberfest"
             ]
@@ -502,7 +502,7 @@
             "open_issues": 3,
             "owner": "h26forge",
             "repo": "h26forge",
-            "stars": 332,
+            "stars": 333,
             "topics": []
           },
           "first_seen": "2026-08-28T04:24:01.519Z"
@@ -808,7 +808,7 @@
             "open_issues": 2,
             "owner": "W00t3k",
             "repo": "Awesome-Cellular-Hacking",
-            "stars": 4050,
+            "stars": 4051,
             "topics": [
               "eviltwin",
               "gsm",
@@ -838,7 +838,7 @@
             "open_issues": 0,
             "owner": "ravens",
             "repo": "awesome-telco",
-            "stars": 1013,
+            "stars": 1014,
             "topics": []
           },
           "first_seen": "2026-08-28T04:24:01.519Z"
@@ -879,7 +879,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-30T23:59:46.473Z",
+    "last_updated": "2026-10-01T23:58:43.861Z",
     "original_repository_info": {
       "archived": false,
       "description": "a list of awesome resources related to security and hacking of VoIP, WebRTC and VoLTE",
