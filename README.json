@@ -6,7 +6,7 @@
         {
           "node_type": "item",
           "title": "Asterisk RTP Bleed",
-          "description": null,
+          "description": "EnableSecurity/advisories",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -30,7 +30,7 @@
         {
           "node_type": "item",
           "title": "Asterisk pjSIP CSeq Overflow",
-          "description": null,
+          "description": "EnableSecurity/advisories",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -54,7 +54,7 @@
         {
           "node_type": "item",
           "title": "Asterisk pjSIP Multi Parser Out-of-Bound Memory Access",
-          "description": null,
+          "description": "EnableSecurity/advisories",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -78,7 +78,7 @@
         {
           "node_type": "item",
           "title": "Asterisk Skinny Memory Exhaustion",
-          "description": null,
+          "description": "EnableSecurity/advisories",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -102,7 +102,7 @@
         {
           "node_type": "item",
           "title": "Asterisk Stack Corruption in Message",
-          "description": null,
+          "description": "EnableSecurity/advisories",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -126,7 +126,7 @@
         {
           "node_type": "item",
           "title": "Asterisk Segfault with Invalid SDP Attribute",
-          "description": null,
+          "description": "EnableSecurity/advisories",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -150,7 +150,7 @@
         {
           "node_type": "item",
           "title": "Asterisk Segfault with Invalid Media Format Descriptiom",
-          "description": null,
+          "description": "EnableSecurity/advisories",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -174,7 +174,7 @@
         {
           "node_type": "item",
           "title": "Asterisk Segfault with Replay Attack",
-          "description": null,
+          "description": "EnableSecurity/advisories",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -198,7 +198,7 @@
         {
           "node_type": "item",
           "title": "Kamalio Off-By-One Heap Overflow",
-          "description": null,
+          "description": "EnableSecurity/advisories",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -228,7 +228,7 @@
         {
           "node_type": "item",
           "title": "Metasploit auxiliary modules",
-          "description": null,
+          "description": "rapid7/metasploit-framework",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -795,7 +795,7 @@
         {
           "node_type": "item",
           "title": "Awesome Cellular Hacking",
-          "description": null,
+          "description": "W00t3k/Awesome-Cellular-Hacking",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -825,7 +825,7 @@
         {
           "node_type": "item",
           "title": "Awesome Telco",
-          "description": null,
+          "description": "ravens/awesome-telco",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -846,7 +846,7 @@
         {
           "node_type": "item",
           "title": "Awesome RTC",
-          "description": null,
+          "description": "rtckit/awesome-rtc",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -879,7 +879,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-02T23:52:56.173Z",
+    "last_updated": "2026-10-03T05:05:09.605Z",
     "original_repository_info": {
       "archived": false,
       "description": "a list of awesome resources related to security and hacking of VoIP, WebRTC and VoLTE",
