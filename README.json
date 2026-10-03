@@ -238,10 +238,10 @@
             "language": "Ruby",
             "license": "NOASSERTION",
             "last_commit": "2026-10-02T13:19:47Z",
-            "open_issues": 611,
+            "open_issues": 612,
             "owner": "rapid7",
             "repo": "metasploit-framework",
-            "stars": 39076,
+            "stars": 39080,
             "topics": [
               "hacktoberfest"
             ]
@@ -428,7 +428,7 @@
             "language": "Go",
             "license": "GPL-3.0",
             "last_commit": "2026-09-24T11:46:40Z",
-            "open_issues": 1,
+            "open_issues": 3,
             "owner": "miconda",
             "repo": "sipexer",
             "stars": 430,
@@ -808,7 +808,7 @@
             "open_issues": 3,
             "owner": "W00t3k",
             "repo": "Awesome-Cellular-Hacking",
-            "stars": 4049,
+            "stars": 4050,
             "topics": [
               "eviltwin",
               "gsm",
@@ -879,7 +879,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-03T05:05:09.605Z",
+    "last_updated": "2026-10-03T23:11:15.405Z",
     "original_repository_info": {
       "archived": false,
       "description": "a list of awesome resources related to security and hacking of VoIP, WebRTC and VoLTE",
