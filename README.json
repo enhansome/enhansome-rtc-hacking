@@ -241,7 +241,7 @@
             "open_issues": 614,
             "owner": "rapid7",
             "repo": "metasploit-framework",
-            "stars": 39102,
+            "stars": 39105,
             "topics": [
               "hacktoberfest"
             ]
@@ -879,7 +879,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-06T01:20:45.912Z",
+    "last_updated": "2026-10-06T10:36:30.911Z",
     "original_repository_info": {
       "archived": false,
       "description": "a list of awesome resources related to security and hacking of VoIP, WebRTC and VoLTE",
