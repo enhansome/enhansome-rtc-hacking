@@ -237,11 +237,11 @@
             "id": 2293158,
             "language": "Ruby",
             "license": "NOASSERTION",
-            "last_commit": "2026-10-05T14:48:30Z",
-            "open_issues": 614,
+            "last_commit": "2026-10-06T20:25:29Z",
+            "open_issues": 623,
             "owner": "rapid7",
             "repo": "metasploit-framework",
-            "stars": 39105,
+            "stars": 39107,
             "topics": [
               "hacktoberfest"
             ]
@@ -264,7 +264,7 @@
             "open_issues": 0,
             "owner": "EnableSecurity",
             "repo": "sipvicious",
-            "stars": 1105,
+            "stars": 1106,
             "topics": [
               "audit-sip",
               "hacking-tools",
@@ -328,7 +328,7 @@
             "open_issues": 0,
             "owner": "Pepelux",
             "repo": "sippts",
-            "stars": 574,
+            "stars": 575,
             "topics": [
               "asterisk",
               "elastix",
@@ -370,7 +370,7 @@
             "open_issues": 1,
             "owner": "meliht",
             "repo": "Mr.SIP",
-            "stars": 436,
+            "stars": 437,
             "topics": [
               "caller-id-spoofing",
               "cracking",
@@ -427,11 +427,11 @@
             "id": 440819916,
             "language": "Go",
             "license": "GPL-3.0",
-            "last_commit": "2026-09-24T11:46:40Z",
-            "open_issues": 3,
+            "last_commit": "2026-10-06T17:52:38Z",
+            "open_issues": 2,
             "owner": "miconda",
             "repo": "sipexer",
-            "stars": 430,
+            "stars": 431,
             "topics": [
               "go",
               "golang",
@@ -502,7 +502,7 @@
             "open_issues": 3,
             "owner": "h26forge",
             "repo": "h26forge",
-            "stars": 333,
+            "stars": 334,
             "topics": []
           },
           "first_seen": "2026-08-28T04:24:01.519Z"
@@ -544,7 +544,7 @@
             "id": 448095082,
             "language": "Python",
             "license": "Unlicense",
-            "last_commit": "2026-08-31T00:24:10Z",
+            "last_commit": "2026-10-06T21:20:48Z",
             "open_issues": 9,
             "owner": "trustedsec",
             "repo": "SeeYouCM-Thief",
@@ -879,7 +879,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-06T10:36:30.911Z",
+    "last_updated": "2026-10-06T23:54:41.443Z",
     "original_repository_info": {
       "archived": false,
       "description": "a list of awesome resources related to security and hacking of VoIP, WebRTC and VoLTE",
