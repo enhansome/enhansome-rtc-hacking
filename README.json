@@ -237,11 +237,11 @@
             "id": 2293158,
             "language": "Ruby",
             "license": "NOASSERTION",
-            "last_commit": "2026-10-02T13:19:47Z",
-            "open_issues": 616,
+            "last_commit": "2026-10-05T14:48:30Z",
+            "open_issues": 614,
             "owner": "rapid7",
             "repo": "metasploit-framework",
-            "stars": 39090,
+            "stars": 39102,
             "topics": [
               "hacktoberfest"
             ]
@@ -264,7 +264,7 @@
             "open_issues": 0,
             "owner": "EnableSecurity",
             "repo": "sipvicious",
-            "stars": 1106,
+            "stars": 1105,
             "topics": [
               "audit-sip",
               "hacking-tools",
@@ -328,7 +328,7 @@
             "open_issues": 0,
             "owner": "Pepelux",
             "repo": "sippts",
-            "stars": 575,
+            "stars": 574,
             "topics": [
               "asterisk",
               "elastix",
@@ -370,7 +370,7 @@
             "open_issues": 1,
             "owner": "meliht",
             "repo": "Mr.SIP",
-            "stars": 437,
+            "stars": 436,
             "topics": [
               "caller-id-spoofing",
               "cracking",
@@ -410,7 +410,7 @@
             "open_issues": 2,
             "owner": "praetorian-inc",
             "repo": "turnt",
-            "stars": 437,
+            "stars": 436,
             "topics": []
           },
           "first_seen": "2026-08-28T04:24:01.519Z"
@@ -808,7 +808,7 @@
             "open_issues": 3,
             "owner": "W00t3k",
             "repo": "Awesome-Cellular-Hacking",
-            "stars": 4052,
+            "stars": 4051,
             "topics": [
               "eviltwin",
               "gsm",
@@ -879,7 +879,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-04T23:19:35.672Z",
+    "last_updated": "2026-10-06T01:20:45.912Z",
     "original_repository_info": {
       "archived": false,
       "description": "a list of awesome resources related to security and hacking of VoIP, WebRTC and VoLTE",
