@@ -237,11 +237,11 @@
             "id": 2293158,
             "language": "Ruby",
             "license": "NOASSERTION",
-            "last_commit": "2026-10-06T20:25:29Z",
-            "open_issues": 623,
+            "last_commit": "2026-10-08T00:11:56Z",
+            "open_issues": 624,
             "owner": "rapid7",
             "repo": "metasploit-framework",
-            "stars": 39107,
+            "stars": 39109,
             "topics": [
               "hacktoberfest"
             ]
@@ -264,7 +264,7 @@
             "open_issues": 0,
             "owner": "EnableSecurity",
             "repo": "sipvicious",
-            "stars": 1106,
+            "stars": 1107,
             "topics": [
               "audit-sip",
               "hacking-tools",
@@ -427,8 +427,8 @@
             "id": 440819916,
             "language": "Go",
             "license": "GPL-3.0",
-            "last_commit": "2026-10-06T17:52:38Z",
-            "open_issues": 2,
+            "last_commit": "2026-10-07T07:19:43Z",
+            "open_issues": 1,
             "owner": "miconda",
             "repo": "sipexer",
             "stars": 431,
@@ -481,7 +481,7 @@
             "open_issues": 59,
             "owner": "SigPloiter",
             "repo": "SigPloit",
-            "stars": 399,
+            "stars": 400,
             "topics": []
           },
           "first_seen": "2026-08-28T04:24:01.519Z"
@@ -838,7 +838,7 @@
             "open_issues": 0,
             "owner": "ravens",
             "repo": "awesome-telco",
-            "stars": 1015,
+            "stars": 1016,
             "topics": []
           },
           "first_seen": "2026-08-28T04:24:01.519Z"
@@ -879,7 +879,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-06T23:54:41.443Z",
+    "last_updated": "2026-10-08T00:16:31.922Z",
     "original_repository_info": {
       "archived": false,
       "description": "a list of awesome resources related to security and hacking of VoIP, WebRTC and VoLTE",
@@ -891,7 +891,7 @@
       "open_issues": 0,
       "owner": "EnableSecurity",
       "repo": "awesome-rtc-hacking",
-      "stars": 555,
+      "stars": 556,
       "topics": [
         "awesome",
         "awesome-list",
