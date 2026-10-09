@@ -91,9 +91,9 @@ To the extent possible under law, the authors have waived all copyright and rela
 
 ## Open-source tools
 
-* [Metasploit auxiliary modules](https://github.com/rapid7/metasploit-framework/tree/master/modules/auxiliary/voip) ⭐ 39,109 | 🐛 624 | 🌐 Ruby | 📅 2026-10-08
+* [Metasploit auxiliary modules](https://github.com/rapid7/metasploit-framework/tree/master/modules/auxiliary/voip) ⭐ 39,114 | 🐛 602 | 🌐 Ruby | 📅 2026-10-08
 * [SIPVicious OSS](https://github.com/EnableSecurity/sipvicious/) ⭐ 1,107 | 🐛 0 | 🌐 Python | 📅 2026-07-10 - A set of tools to audit SIP based systems
-* [stunner](https://github.com/firefart/stunner) ⭐ 867 | 🐛 4 | 🌐 Go | 📅 2026-09-09 -  a tool to test and exploit STUN, TURN and TURN over TCP servers.
+* [stunner](https://github.com/firefart/stunner) ⭐ 867 | 🐛 4 | 🌐 Go | 📅 2026-10-08 -  a tool to test and exploit STUN, TURN and TURN over TCP servers.
 * [SIPPTS](https://github.com/Pepelux/sippts) ⭐ 575 | 🐛 0 | 🌐 Python | 📅 2026-09-14 - Another set of tools to audit VoIP servers and devices using SIP protocol.
 * [Mr.SIP](https://github.com/meliht/Mr.SIP) ⭐ 437 | 🐛 1 | 🌐 Python | 📅 2026-09-14 - SIP based audit and attack tool.
 * [TURNt](https://github.com/praetorian-inc/turnt) ⭐ 436 | 🐛 2 | 🌐 Go | 📅 2026-06-09 - PoC from Praetorian that abuses TURN servers (e.g. Zoom and Teams) to tunnel command-and-control traffic over web-conferencing infrastructure (the "Ghost Calls" technique).
@@ -184,8 +184,8 @@ The following are generic or common vulnerabilities that are related to either s
 
 * [Awesome Cellular Hacking](https://github.com/W00t3k/Awesome-Cellular-Hacking) ⭐ 4,051 | 🐛 3 | 📅 2026-08-28
 * [Awesome Telco](https://github.com/ravens/awesome-telco) ⭐ 1,016 | 🐛 0 | 🌐 Python | 📅 2026-09-12
-* [Awesome RTC](https://github.com/rtckit/awesome-rtc/) ⭐ 496 | 🐛 13 | 📅 2026-05-18
+* [Awesome RTC](https://github.com/rtckit/awesome-rtc/) ⭐ 497 | 🐛 13 | 📅 2026-05-18
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-08._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-09._
