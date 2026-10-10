@@ -91,18 +91,18 @@ To the extent possible under law, the authors have waived all copyright and rela
 
 ## Open-source tools
 
-* [Metasploit auxiliary modules](https://github.com/rapid7/metasploit-framework/tree/master/modules/auxiliary/voip) ⭐ 39,114 | 🐛 602 | 🌐 Ruby | 📅 2026-10-08
-* [SIPVicious OSS](https://github.com/EnableSecurity/sipvicious/) ⭐ 1,107 | 🐛 0 | 🌐 Python | 📅 2026-07-10 - A set of tools to audit SIP based systems
-* [stunner](https://github.com/firefart/stunner) ⭐ 867 | 🐛 4 | 🌐 Go | 📅 2026-10-08 -  a tool to test and exploit STUN, TURN and TURN over TCP servers.
+* [Metasploit auxiliary modules](https://github.com/rapid7/metasploit-framework/tree/master/modules/auxiliary/voip) ⭐ 39,118 | 🐛 604 | 🌐 Ruby | 📅 2026-10-08
+* [SIPVicious OSS](https://github.com/EnableSecurity/sipvicious/) ⭐ 1,108 | 🐛 0 | 🌐 Python | 📅 2026-07-10 - A set of tools to audit SIP based systems
+* [stunner](https://github.com/firefart/stunner) ⭐ 867 | 🐛 4 | 🌐 Go | 📅 2026-10-09 -  a tool to test and exploit STUN, TURN and TURN over TCP servers.
 * [SIPPTS](https://github.com/Pepelux/sippts) ⭐ 575 | 🐛 0 | 🌐 Python | 📅 2026-09-14 - Another set of tools to audit VoIP servers and devices using SIP protocol.
 * [Mr.SIP](https://github.com/meliht/Mr.SIP) ⭐ 437 | 🐛 1 | 🌐 Python | 📅 2026-09-14 - SIP based audit and attack tool.
-* [TURNt](https://github.com/praetorian-inc/turnt) ⭐ 436 | 🐛 2 | 🌐 Go | 📅 2026-06-09 - PoC from Praetorian that abuses TURN servers (e.g. Zoom and Teams) to tunnel command-and-control traffic over web-conferencing infrastructure (the "Ghost Calls" technique).
+* [TURNt](https://github.com/praetorian-inc/turnt) ⭐ 435 | 🐛 2 | 🌐 Go | 📅 2026-06-09 - PoC from Praetorian that abuses TURN servers (e.g. Zoom and Teams) to tunnel command-and-control traffic over web-conferencing infrastructure (the "Ghost Calls" technique).
 * [sipexer](https://github.com/miconda/sipexer) ⭐ 431 | 🐛 1 | 🌐 Go | 📅 2026-10-07 - modern and flexible SIP command line client for testing SIP servers and devices, with custom requests, registration floods, stateful dialogues and lightweight fuzzing.
 * [VIPROY](https://github.com/fozavci/viproy-voipkit) ⭐ 421 | 🐛 19 | 🌐 Ruby | 📅 2022-02-04 - VoIP pentest framework which can be used with the metasploit-framework.
 * [SigPloit](https://github.com/SigPloiter/SigPloit) ⭐ 400 | 🐛 59 | 🌐 Java | 📅 2019-12-17 - Tool which covers all used SS7, GTP (3G), Diameter (4G) or even SIP protocols for IMS and VoLTE infrastructures.
 * [H26Forge](https://github.com/h26forge/h26forge) ⭐ 334 | 🐛 3 | 🌐 Rust | 📅 2026-07-14 - generates and fuzzes syntactically valid but spec-non-compliant H.264 video to find decoder vulnerabilities (relevant to WebRTC video attack surface).
 * [bluebox-ng](https://github.com/jesusprubio/bluebox-ng) ⭐ 264 | 🐛 1 | 🌐 Go | 📅 2026-03-06 - Pentesting framework using Node.js powers, focused in VoIP. (public archive)
-* [SeeYouCM Thief](https://github.com/trustedsec/SeeYouCM-Thief) ⭐ 206 | 🐛 9 | 🌐 Python | 📅 2026-10-06 - download and parse configuration files from Cisco phone systems searching for SSH credentials
+* [SeeYouCM Thief](https://github.com/trustedsec/SeeYouCM-Thief) ⭐ 207 | 🐛 9 | 🌐 Python | 📅 2026-10-09 - download and parse configuration files from Cisco phone systems searching for SSH credentials
 * [Turner](https://github.com/staaldraad/turner) ⭐ 199 | 🐛 1 | 🌐 Go | 📅 2023-12-30 - PoC for tunnelling HTTP over a permissive/open TURN server.
 * [sipsak](https://github.com/nils-ohlmeier/sipsak) ⭐ 176 | 🐛 25 | 🌐 C | 📅 2025-05-26 - SIP swiss army knife, has some features that can be used for security testing (e.g. flood more or random mode)
 * [vsaudit](https://github.com/eurialo/vsaudit) ⭐ 109 | 🐛 2 | 🌐 Ruby | 📅 2018-01-22 - VoIP security assessment framework.
@@ -182,10 +182,10 @@ The following are generic or common vulnerabilities that are related to either s
 
 ## Related lists
 
-* [Awesome Cellular Hacking](https://github.com/W00t3k/Awesome-Cellular-Hacking) ⭐ 4,051 | 🐛 3 | 📅 2026-08-28
-* [Awesome Telco](https://github.com/ravens/awesome-telco) ⭐ 1,016 | 🐛 0 | 🌐 Python | 📅 2026-09-12
+* [Awesome Cellular Hacking](https://github.com/W00t3k/Awesome-Cellular-Hacking) ⭐ 4,053 | 🐛 3 | 📅 2026-08-28
+* [Awesome Telco](https://github.com/ravens/awesome-telco) ⭐ 1,017 | 🐛 0 | 🌐 Python | 📅 2026-09-12
 * [Awesome RTC](https://github.com/rtckit/awesome-rtc/) ⭐ 497 | 🐛 13 | 📅 2026-05-18
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-09._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-10._

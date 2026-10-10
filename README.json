@@ -238,10 +238,10 @@
             "language": "Ruby",
             "license": "NOASSERTION",
             "last_commit": "2026-10-08T20:52:37Z",
-            "open_issues": 602,
+            "open_issues": 604,
             "owner": "rapid7",
             "repo": "metasploit-framework",
-            "stars": 39114,
+            "stars": 39118,
             "topics": [
               "hacktoberfest"
             ]
@@ -264,7 +264,7 @@
             "open_issues": 0,
             "owner": "EnableSecurity",
             "repo": "sipvicious",
-            "stars": 1107,
+            "stars": 1108,
             "topics": [
               "audit-sip",
               "hacking-tools",
@@ -294,7 +294,7 @@
             "id": 481937257,
             "language": "Go",
             "license": "NOASSERTION",
-            "last_commit": "2026-10-08T18:04:45Z",
+            "last_commit": "2026-10-09T17:38:28Z",
             "open_issues": 4,
             "owner": "firefart",
             "repo": "stunner",
@@ -410,7 +410,7 @@
             "open_issues": 2,
             "owner": "praetorian-inc",
             "repo": "turnt",
-            "stars": 436,
+            "stars": 435,
             "topics": []
           },
           "first_seen": "2026-08-28T04:24:01.519Z"
@@ -544,11 +544,11 @@
             "id": 448095082,
             "language": "Python",
             "license": "Unlicense",
-            "last_commit": "2026-10-06T21:20:48Z",
+            "last_commit": "2026-10-09T22:57:47Z",
             "open_issues": 9,
             "owner": "trustedsec",
             "repo": "SeeYouCM-Thief",
-            "stars": 206,
+            "stars": 207,
             "topics": []
           },
           "first_seen": "2026-08-28T04:24:01.519Z"
@@ -808,7 +808,7 @@
             "open_issues": 3,
             "owner": "W00t3k",
             "repo": "Awesome-Cellular-Hacking",
-            "stars": 4051,
+            "stars": 4053,
             "topics": [
               "eviltwin",
               "gsm",
@@ -838,7 +838,7 @@
             "open_issues": 0,
             "owner": "ravens",
             "repo": "awesome-telco",
-            "stars": 1016,
+            "stars": 1017,
             "topics": []
           },
           "first_seen": "2026-08-28T04:24:01.519Z"
@@ -879,7 +879,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-09T00:30:03.875Z",
+    "last_updated": "2026-10-10T00:06:43.661Z",
     "original_repository_info": {
       "archived": false,
       "description": "a list of awesome resources related to security and hacking of VoIP, WebRTC and VoLTE",
@@ -891,7 +891,7 @@
       "open_issues": 0,
       "owner": "EnableSecurity",
       "repo": "awesome-rtc-hacking",
-      "stars": 556,
+      "stars": 557,
       "topics": [
         "awesome",
         "awesome-list",
