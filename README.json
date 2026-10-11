@@ -238,10 +238,10 @@
             "language": "Ruby",
             "license": "NOASSERTION",
             "last_commit": "2026-10-08T20:52:37Z",
-            "open_issues": 608,
+            "open_issues": 609,
             "owner": "rapid7",
             "repo": "metasploit-framework",
-            "stars": 39126,
+            "stars": 39128,
             "topics": [
               "hacktoberfest"
             ]
@@ -410,7 +410,7 @@
             "open_issues": 2,
             "owner": "praetorian-inc",
             "repo": "turnt",
-            "stars": 435,
+            "stars": 434,
             "topics": []
           },
           "first_seen": "2026-08-28T04:24:01.519Z"
@@ -544,8 +544,8 @@
             "id": 448095082,
             "language": "Python",
             "license": "Unlicense",
-            "last_commit": "2026-10-10T21:26:21Z",
-            "open_issues": 9,
+            "last_commit": "2026-10-11T20:04:55Z",
+            "open_issues": 6,
             "owner": "trustedsec",
             "repo": "SeeYouCM-Thief",
             "stars": 207,
@@ -808,7 +808,7 @@
             "open_issues": 3,
             "owner": "W00t3k",
             "repo": "Awesome-Cellular-Hacking",
-            "stars": 4055,
+            "stars": 4056,
             "topics": [
               "eviltwin",
               "gsm",
@@ -879,7 +879,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-10T23:40:57.332Z",
+    "last_updated": "2026-10-11T23:46:18.583Z",
     "original_repository_info": {
       "archived": false,
       "description": "a list of awesome resources related to security and hacking of VoIP, WebRTC and VoLTE",
@@ -891,7 +891,7 @@
       "open_issues": 0,
       "owner": "EnableSecurity",
       "repo": "awesome-rtc-hacking",
-      "stars": 557,
+      "stars": 558,
       "topics": [
         "awesome",
         "awesome-list",
