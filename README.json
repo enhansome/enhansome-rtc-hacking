@@ -237,11 +237,11 @@
             "id": 2293158,
             "language": "Ruby",
             "license": "NOASSERTION",
-            "last_commit": "2026-10-13T17:28:54Z",
-            "open_issues": 617,
+            "last_commit": "2026-10-14T23:01:28Z",
+            "open_issues": 613,
             "owner": "rapid7",
             "repo": "metasploit-framework",
-            "stars": 39145,
+            "stars": 39148,
             "topics": [
               "hacktoberfest"
             ]
@@ -264,7 +264,7 @@
             "open_issues": 0,
             "owner": "EnableSecurity",
             "repo": "sipvicious",
-            "stars": 1109,
+            "stars": 1111,
             "topics": [
               "audit-sip",
               "hacking-tools",
@@ -294,11 +294,11 @@
             "id": 481937257,
             "language": "Go",
             "license": "NOASSERTION",
-            "last_commit": "2026-10-10T16:29:20Z",
+            "last_commit": "2026-10-14T16:04:23Z",
             "open_issues": 4,
             "owner": "firefart",
             "repo": "stunner",
-            "stars": 867,
+            "stars": 868,
             "topics": [
               "exploit",
               "misconfiguration",
@@ -410,7 +410,7 @@
             "open_issues": 2,
             "owner": "praetorian-inc",
             "repo": "turnt",
-            "stars": 436,
+            "stars": 437,
             "topics": []
           },
           "first_seen": "2026-08-28T04:24:01.519Z"
@@ -431,7 +431,7 @@
             "open_issues": 1,
             "owner": "miconda",
             "repo": "sipexer",
-            "stars": 432,
+            "stars": 433,
             "topics": [
               "go",
               "golang",
@@ -460,7 +460,7 @@
             "open_issues": 19,
             "owner": "fozavci",
             "repo": "viproy-voipkit",
-            "stars": 420,
+            "stars": 421,
             "topics": []
           },
           "first_seen": "2026-08-28T04:24:01.519Z"
@@ -502,7 +502,7 @@
             "open_issues": 3,
             "owner": "h26forge",
             "repo": "h26forge",
-            "stars": 334,
+            "stars": 335,
             "topics": []
           },
           "first_seen": "2026-08-28T04:24:01.519Z"
@@ -545,7 +545,7 @@
             "language": "Python",
             "license": "Unlicense",
             "last_commit": "2026-10-13T01:48:54Z",
-            "open_issues": 7,
+            "open_issues": 8,
             "owner": "trustedsec",
             "repo": "SeeYouCM-Thief",
             "stars": 207,
@@ -805,10 +805,10 @@
             "language": null,
             "license": null,
             "last_commit": "2026-08-28T17:45:58Z",
-            "open_issues": 3,
+            "open_issues": 2,
             "owner": "W00t3k",
             "repo": "Awesome-Cellular-Hacking",
-            "stars": 4062,
+            "stars": 4064,
             "topics": [
               "eviltwin",
               "gsm",
@@ -879,7 +879,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-13T23:46:16.263Z",
+    "last_updated": "2026-10-14T23:19:21.750Z",
     "original_repository_info": {
       "archived": false,
       "description": "a list of awesome resources related to security and hacking of VoIP, WebRTC and VoLTE",
