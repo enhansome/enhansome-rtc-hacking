@@ -238,10 +238,10 @@
             "language": "Ruby",
             "license": "NOASSERTION",
             "last_commit": "2026-10-16T13:54:57Z",
-            "open_issues": 604,
+            "open_issues": 606,
             "owner": "rapid7",
             "repo": "metasploit-framework",
-            "stars": 39155,
+            "stars": 39165,
             "topics": [
               "hacktoberfest"
             ]
@@ -294,7 +294,7 @@
             "id": 481937257,
             "language": "Go",
             "license": "NOASSERTION",
-            "last_commit": "2026-10-15T20:42:48Z",
+            "last_commit": "2026-10-17T09:53:29Z",
             "open_issues": 4,
             "owner": "firefart",
             "repo": "stunner",
@@ -370,7 +370,7 @@
             "open_issues": 1,
             "owner": "meliht",
             "repo": "Mr.SIP",
-            "stars": 437,
+            "stars": 438,
             "topics": [
               "caller-id-spoofing",
               "cracking",
@@ -410,7 +410,7 @@
             "open_issues": 2,
             "owner": "praetorian-inc",
             "repo": "turnt",
-            "stars": 437,
+            "stars": 438,
             "topics": []
           },
           "first_seen": "2026-08-28T04:24:01.519Z"
@@ -834,11 +834,11 @@
             "id": 199304591,
             "language": "Python",
             "license": "MIT",
-            "last_commit": "2026-10-15T15:13:00Z",
-            "open_issues": 0,
+            "last_commit": "2026-10-17T08:22:50Z",
+            "open_issues": 1,
             "owner": "ravens",
             "repo": "awesome-telco",
-            "stars": 1020,
+            "stars": 1022,
             "topics": []
           },
           "first_seen": "2026-08-28T04:24:01.519Z"
@@ -879,7 +879,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-16T22:54:50.907Z",
+    "last_updated": "2026-10-17T22:28:30.908Z",
     "original_repository_info": {
       "archived": false,
       "description": "a list of awesome resources related to security and hacking of VoIP, WebRTC and VoLTE",
