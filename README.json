@@ -237,11 +237,11 @@
             "id": 2293158,
             "language": "Ruby",
             "license": "NOASSERTION",
-            "last_commit": "2026-10-16T13:54:57Z",
-            "open_issues": 606,
+            "last_commit": "2026-10-19T14:55:08Z",
+            "open_issues": 604,
             "owner": "rapid7",
             "repo": "metasploit-framework",
-            "stars": 39180,
+            "stars": 39188,
             "topics": [
               "hacktoberfest"
             ]
@@ -298,7 +298,7 @@
             "open_issues": 4,
             "owner": "firefart",
             "repo": "stunner",
-            "stars": 868,
+            "stars": 867,
             "topics": [
               "exploit",
               "misconfiguration",
@@ -460,7 +460,7 @@
             "open_issues": 19,
             "owner": "fozavci",
             "repo": "viproy-voipkit",
-            "stars": 421,
+            "stars": 422,
             "topics": []
           },
           "first_seen": "2026-08-28T04:24:01.519Z"
@@ -481,7 +481,7 @@
             "open_issues": 59,
             "owner": "SigPloiter",
             "repo": "SigPloit",
-            "stars": 401,
+            "stars": 400,
             "topics": []
           },
           "first_seen": "2026-08-28T04:24:01.519Z"
@@ -502,7 +502,7 @@
             "open_issues": 3,
             "owner": "h26forge",
             "repo": "h26forge",
-            "stars": 335,
+            "stars": 336,
             "topics": []
           },
           "first_seen": "2026-08-28T04:24:01.519Z"
@@ -808,7 +808,7 @@
             "open_issues": 2,
             "owner": "W00t3k",
             "repo": "Awesome-Cellular-Hacking",
-            "stars": 4071,
+            "stars": 4074,
             "topics": [
               "eviltwin",
               "gsm",
@@ -838,7 +838,7 @@
             "open_issues": 1,
             "owner": "ravens",
             "repo": "awesome-telco",
-            "stars": 1023,
+            "stars": 1022,
             "topics": []
           },
           "first_seen": "2026-08-28T04:24:01.519Z"
@@ -856,7 +856,7 @@
             "language": null,
             "license": "CC0-1.0",
             "last_commit": "2026-05-18T19:39:18Z",
-            "open_issues": 14,
+            "open_issues": 15,
             "owner": "rtckit",
             "repo": "awesome-rtc",
             "stars": 496,
@@ -879,7 +879,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-18T22:29:38.132Z",
+    "last_updated": "2026-10-19T23:49:10.863Z",
     "original_repository_info": {
       "archived": false,
       "description": "a list of awesome resources related to security and hacking of VoIP, WebRTC and VoLTE",
