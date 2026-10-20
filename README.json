@@ -237,11 +237,11 @@
             "id": 2293158,
             "language": "Ruby",
             "license": "NOASSERTION",
-            "last_commit": "2026-10-19T14:55:08Z",
-            "open_issues": 604,
+            "last_commit": "2026-10-20T20:38:26Z",
+            "open_issues": 603,
             "owner": "rapid7",
             "repo": "metasploit-framework",
-            "stars": 39188,
+            "stars": 39195,
             "topics": [
               "hacktoberfest"
             ]
@@ -356,6 +356,27 @@
         },
         {
           "node_type": "item",
+          "title": "TURNt",
+          "description": "PoC from Praetorian that abuses TURN servers (e.g. Zoom and Teams) to tunnel command-and-control traffic over web-conferencing infrastructure (the \"Ghost Calls\" technique).",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "A tool designed for smuggling interactive command and control traffic through legitimate TURN servers hosted by reputable providers such as Zoom.",
+            "homepage": null,
+            "id": 1028508943,
+            "language": "Go",
+            "license": "Apache-2.0",
+            "last_commit": "2026-06-09T11:46:23Z",
+            "open_issues": 2,
+            "owner": "praetorian-inc",
+            "repo": "turnt",
+            "stars": 439,
+            "topics": []
+          },
+          "first_seen": "2026-08-28T04:24:01.519Z"
+        },
+        {
+          "node_type": "item",
           "title": "Mr.SIP",
           "description": "SIP based audit and attack tool.",
           "children": [],
@@ -391,27 +412,6 @@
               "voip",
               "voip-security"
             ]
-          },
-          "first_seen": "2026-08-28T04:24:01.519Z"
-        },
-        {
-          "node_type": "item",
-          "title": "TURNt",
-          "description": "PoC from Praetorian that abuses TURN servers (e.g. Zoom and Teams) to tunnel command-and-control traffic over web-conferencing infrastructure (the \"Ghost Calls\" technique).",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "A tool designed for smuggling interactive command and control traffic through legitimate TURN servers hosted by reputable providers such as Zoom.",
-            "homepage": null,
-            "id": 1028508943,
-            "language": "Go",
-            "license": "Apache-2.0",
-            "last_commit": "2026-06-09T11:46:23Z",
-            "open_issues": 2,
-            "owner": "praetorian-inc",
-            "repo": "turnt",
-            "stars": 438,
-            "topics": []
           },
           "first_seen": "2026-08-28T04:24:01.519Z"
         },
@@ -808,7 +808,7 @@
             "open_issues": 2,
             "owner": "W00t3k",
             "repo": "Awesome-Cellular-Hacking",
-            "stars": 4074,
+            "stars": 4079,
             "topics": [
               "eviltwin",
               "gsm",
@@ -838,7 +838,7 @@
             "open_issues": 1,
             "owner": "ravens",
             "repo": "awesome-telco",
-            "stars": 1022,
+            "stars": 1024,
             "topics": []
           },
           "first_seen": "2026-08-28T04:24:01.519Z"
@@ -879,7 +879,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-19T23:49:10.863Z",
+    "last_updated": "2026-10-20T23:14:59.600Z",
     "original_repository_info": {
       "archived": false,
       "description": "a list of awesome resources related to security and hacking of VoIP, WebRTC and VoLTE",
