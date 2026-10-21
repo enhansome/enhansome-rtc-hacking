@@ -91,22 +91,22 @@ To the extent possible under law, the authors have waived all copyright and rela
 
 ## Open-source tools
 
-* [Metasploit auxiliary modules](https://github.com/rapid7/metasploit-framework/tree/master/modules/auxiliary/voip) ⭐ 39,195 | 🐛 603 | 🌐 Ruby | 📅 2026-10-20
+* [Metasploit auxiliary modules](https://github.com/rapid7/metasploit-framework/tree/master/modules/auxiliary/voip) ⭐ 39,204 | 🐛 602 | 🌐 Ruby | 📅 2026-10-21
 * [SIPVicious OSS](https://github.com/EnableSecurity/sipvicious/) ⭐ 1,112 | 🐛 0 | 🌐 Python | 📅 2026-07-10 - A set of tools to audit SIP based systems
-* [stunner](https://github.com/firefart/stunner) ⭐ 867 | 🐛 4 | 🌐 Go | 📅 2026-10-17 -  a tool to test and exploit STUN, TURN and TURN over TCP servers.
-* [SIPPTS](https://github.com/Pepelux/sippts) ⭐ 575 | 🐛 0 | 🌐 Python | 📅 2026-09-14 - Another set of tools to audit VoIP servers and devices using SIP protocol.
+* [stunner](https://github.com/firefart/stunner) ⭐ 866 | 🐛 4 | 🌐 Go | 📅 2026-10-17 -  a tool to test and exploit STUN, TURN and TURN over TCP servers.
+* [SIPPTS](https://github.com/Pepelux/sippts) ⭐ 576 | 🐛 0 | 🌐 Python | 📅 2026-09-14 - Another set of tools to audit VoIP servers and devices using SIP protocol.
 * [TURNt](https://github.com/praetorian-inc/turnt) ⭐ 439 | 🐛 2 | 🌐 Go | 📅 2026-06-09 - PoC from Praetorian that abuses TURN servers (e.g. Zoom and Teams) to tunnel command-and-control traffic over web-conferencing infrastructure (the "Ghost Calls" technique).
 * [Mr.SIP](https://github.com/meliht/Mr.SIP) ⭐ 438 | 🐛 1 | 🌐 Python | 📅 2026-09-14 - SIP based audit and attack tool.
 * [sipexer](https://github.com/miconda/sipexer) ⭐ 433 | 🐛 1 | 🌐 Go | 📅 2026-10-07 - modern and flexible SIP command line client for testing SIP servers and devices, with custom requests, registration floods, stateful dialogues and lightweight fuzzing.
 * [VIPROY](https://github.com/fozavci/viproy-voipkit) ⭐ 422 | 🐛 19 | 🌐 Ruby | 📅 2022-02-04 - VoIP pentest framework which can be used with the metasploit-framework.
-* [SigPloit](https://github.com/SigPloiter/SigPloit) ⭐ 400 | 🐛 59 | 🌐 Java | 📅 2019-12-17 - Tool which covers all used SS7, GTP (3G), Diameter (4G) or even SIP protocols for IMS and VoLTE infrastructures.
-* [H26Forge](https://github.com/h26forge/h26forge) ⭐ 336 | 🐛 3 | 🌐 Rust | 📅 2026-07-14 - generates and fuzzes syntactically valid but spec-non-compliant H.264 video to find decoder vulnerabilities (relevant to WebRTC video attack surface).
+* [SigPloit](https://github.com/SigPloiter/SigPloit) ⭐ 401 | 🐛 59 | 🌐 Java | 📅 2019-12-17 - Tool which covers all used SS7, GTP (3G), Diameter (4G) or even SIP protocols for IMS and VoLTE infrastructures.
+* [H26Forge](https://github.com/h26forge/h26forge) ⭐ 337 | 🐛 3 | 🌐 Rust | 📅 2026-07-14 - generates and fuzzes syntactically valid but spec-non-compliant H.264 video to find decoder vulnerabilities (relevant to WebRTC video attack surface).
 * [bluebox-ng](https://github.com/jesusprubio/bluebox-ng) ⭐ 264 | 🐛 1 | 🌐 Go | 📅 2026-03-06 - Pentesting framework using Node.js powers, focused in VoIP. (public archive)
 * [SeeYouCM Thief](https://github.com/trustedsec/SeeYouCM-Thief) ⭐ 207 | 🐛 8 | 🌐 Python | 📅 2026-10-13 - download and parse configuration files from Cisco phone systems searching for SSH credentials
 * [Turner](https://github.com/staaldraad/turner) ⭐ 199 | 🐛 1 | 🌐 Go | 📅 2023-12-30 - PoC for tunnelling HTTP over a permissive/open TURN server.
 * [sipsak](https://github.com/nils-ohlmeier/sipsak) ⭐ 176 | 🐛 25 | 🌐 C | 📅 2025-05-26 - SIP swiss army knife, has some features that can be used for security testing (e.g. flood more or random mode)
 * [vsaudit](https://github.com/eurialo/vsaudit) ⭐ 109 | 🐛 2 | 🌐 Ruby | 📅 2018-01-22 - VoIP security assessment framework.
-* [VoIPShark](https://github.com/pentesteracademy/voipshark) ⭐ 94 | 🐛 2 | 🌐 Lua | 📅 2020-02-18 - Open Source VoIP Analysis Platform
+* [VoIPShark](https://github.com/pentesteracademy/voipshark) ⭐ 95 | 🐛 2 | 🌐 Lua | 📅 2020-02-18 - Open Source VoIP Analysis Platform
 * [VoIP Hopper](https://github.com/iknowjason/voiphopper) ⚠️ Archived - a tool to exploit insecure VLANs that are often found in IP Telephony infrastructure.
 * [rtpnatscan](https://github.com/kapejod/rtpnatscan) ⭐ 25 | 🐛 0 | 🌐 C | 📅 2017-09-05 - Tool which tests for [rtpbleed](http://rtpbleed.com) vulnerability.
 * [twilio-security-scanner](https://github.com/relayhawk/twilio-security-scanner) ⭐ 23 | 🐛 0 | 🌐 Python | 📅 2025-03-04 - scans Twilio Serverless deployments for misconfigurations such as public functions and assets, unencrypted webhooks and stale API keys.
@@ -182,10 +182,10 @@ The following are generic or common vulnerabilities that are related to either s
 
 ## Related lists
 
-* [Awesome Cellular Hacking](https://github.com/W00t3k/Awesome-Cellular-Hacking) ⭐ 4,079 | 🐛 2 | 📅 2026-08-28
-* [Awesome Telco](https://github.com/ravens/awesome-telco) ⭐ 1,024 | 🐛 1 | 🌐 Python | 📅 2026-10-17
-* [Awesome RTC](https://github.com/rtckit/awesome-rtc/) ⭐ 496 | 🐛 15 | 📅 2026-05-18
+* [Awesome Cellular Hacking](https://github.com/W00t3k/Awesome-Cellular-Hacking) ⭐ 4,080 | 🐛 2 | 📅 2026-08-28
+* [Awesome Telco](https://github.com/ravens/awesome-telco) ⭐ 1,026 | 🐛 2 | 🌐 Python | 📅 2026-10-17
+* [Awesome RTC](https://github.com/rtckit/awesome-rtc/) ⭐ 496 | 🐛 16 | 📅 2026-05-18
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-20._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-21._
