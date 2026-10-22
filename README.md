@@ -91,7 +91,7 @@ To the extent possible under law, the authors have waived all copyright and rela
 
 ## Open-source tools
 
-* [Metasploit auxiliary modules](https://github.com/rapid7/metasploit-framework/tree/master/modules/auxiliary/voip) ⭐ 39,204 | 🐛 602 | 🌐 Ruby | 📅 2026-10-21
+* [Metasploit auxiliary modules](https://github.com/rapid7/metasploit-framework/tree/master/modules/auxiliary/voip) ⭐ 39,206 | 🐛 607 | 🌐 Ruby | 📅 2026-10-22
 * [SIPVicious OSS](https://github.com/EnableSecurity/sipvicious/) ⭐ 1,112 | 🐛 0 | 🌐 Python | 📅 2026-07-10 - A set of tools to audit SIP based systems
 * [stunner](https://github.com/firefart/stunner) ⭐ 866 | 🐛 4 | 🌐 Go | 📅 2026-10-17 -  a tool to test and exploit STUN, TURN and TURN over TCP servers.
 * [SIPPTS](https://github.com/Pepelux/sippts) ⭐ 576 | 🐛 0 | 🌐 Python | 📅 2026-09-14 - Another set of tools to audit VoIP servers and devices using SIP protocol.
@@ -182,10 +182,10 @@ The following are generic or common vulnerabilities that are related to either s
 
 ## Related lists
 
-* [Awesome Cellular Hacking](https://github.com/W00t3k/Awesome-Cellular-Hacking) ⭐ 4,080 | 🐛 2 | 📅 2026-08-28
+* [Awesome Cellular Hacking](https://github.com/W00t3k/Awesome-Cellular-Hacking) ⭐ 4,081 | 🐛 2 | 📅 2026-08-28
 * [Awesome Telco](https://github.com/ravens/awesome-telco) ⭐ 1,026 | 🐛 2 | 🌐 Python | 📅 2026-10-17
 * [Awesome RTC](https://github.com/rtckit/awesome-rtc/) ⭐ 496 | 🐛 16 | 📅 2026-05-18
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-21._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-22._
