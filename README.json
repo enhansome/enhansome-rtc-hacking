@@ -237,11 +237,11 @@
             "id": 2293158,
             "language": "Ruby",
             "license": "NOASSERTION",
-            "last_commit": "2026-10-22T22:23:29Z",
-            "open_issues": 607,
+            "last_commit": "2026-10-23T16:32:31Z",
+            "open_issues": 610,
             "owner": "rapid7",
             "repo": "metasploit-framework",
-            "stars": 39206,
+            "stars": 39218,
             "topics": [
               "hacktoberfest"
             ]
@@ -264,7 +264,7 @@
             "open_issues": 0,
             "owner": "EnableSecurity",
             "repo": "sipvicious",
-            "stars": 1112,
+            "stars": 1111,
             "topics": [
               "audit-sip",
               "hacking-tools",
@@ -298,7 +298,7 @@
             "open_issues": 4,
             "owner": "firefart",
             "repo": "stunner",
-            "stars": 866,
+            "stars": 867,
             "topics": [
               "exploit",
               "misconfiguration",
@@ -428,7 +428,7 @@
             "language": "Go",
             "license": "GPL-3.0",
             "last_commit": "2026-10-07T07:19:43Z",
-            "open_issues": 1,
+            "open_issues": 2,
             "owner": "miconda",
             "repo": "sipexer",
             "stars": 433,
@@ -808,7 +808,7 @@
             "open_issues": 2,
             "owner": "W00t3k",
             "repo": "Awesome-Cellular-Hacking",
-            "stars": 4081,
+            "stars": 4082,
             "topics": [
               "eviltwin",
               "gsm",
@@ -838,7 +838,7 @@
             "open_issues": 2,
             "owner": "ravens",
             "repo": "awesome-telco",
-            "stars": 1026,
+            "stars": 1027,
             "topics": []
           },
           "first_seen": "2026-08-28T04:24:01.519Z"
@@ -856,7 +856,7 @@
             "language": null,
             "license": "CC0-1.0",
             "last_commit": "2026-05-18T19:39:18Z",
-            "open_issues": 16,
+            "open_issues": 17,
             "owner": "rtckit",
             "repo": "awesome-rtc",
             "stars": 496,
@@ -879,7 +879,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-22T23:28:22.119Z",
+    "last_updated": "2026-10-23T23:15:30.668Z",
     "original_repository_info": {
       "archived": false,
       "description": "a list of awesome resources related to security and hacking of VoIP, WebRTC and VoLTE",
