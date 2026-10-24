@@ -238,10 +238,10 @@
             "language": "Ruby",
             "license": "NOASSERTION",
             "last_commit": "2026-10-23T16:32:31Z",
-            "open_issues": 610,
+            "open_issues": 613,
             "owner": "rapid7",
             "repo": "metasploit-framework",
-            "stars": 39218,
+            "stars": 39225,
             "topics": [
               "hacktoberfest"
             ]
@@ -328,7 +328,7 @@
             "open_issues": 0,
             "owner": "Pepelux",
             "repo": "sippts",
-            "stars": 576,
+            "stars": 575,
             "topics": [
               "asterisk",
               "elastix",
@@ -523,7 +523,7 @@
             "open_issues": 1,
             "owner": "jesusprubio",
             "repo": "bluebox",
-            "stars": 264,
+            "stars": 263,
             "topics": [
               "exploit",
               "go-exploit",
@@ -644,7 +644,7 @@
             "open_issues": 2,
             "owner": "pentesteracademy",
             "repo": "voipshark",
-            "stars": 95,
+            "stars": 94,
             "topics": []
           },
           "first_seen": "2026-08-28T04:24:01.519Z"
@@ -808,7 +808,7 @@
             "open_issues": 2,
             "owner": "W00t3k",
             "repo": "Awesome-Cellular-Hacking",
-            "stars": 4082,
+            "stars": 4084,
             "topics": [
               "eviltwin",
               "gsm",
@@ -834,8 +834,8 @@
             "id": 199304591,
             "language": "Python",
             "license": "MIT",
-            "last_commit": "2026-10-17T08:22:50Z",
-            "open_issues": 2,
+            "last_commit": "2026-10-24T14:00:22Z",
+            "open_issues": 0,
             "owner": "ravens",
             "repo": "awesome-telco",
             "stars": 1027,
@@ -879,7 +879,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-23T23:15:30.668Z",
+    "last_updated": "2026-10-24T22:35:45.391Z",
     "original_repository_info": {
       "archived": false,
       "description": "a list of awesome resources related to security and hacking of VoIP, WebRTC and VoLTE",
