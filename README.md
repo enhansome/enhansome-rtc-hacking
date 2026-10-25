@@ -91,11 +91,11 @@ To the extent possible under law, the authors have waived all copyright and rela
 
 ## Open-source tools
 
-* [Metasploit auxiliary modules](https://github.com/rapid7/metasploit-framework/tree/master/modules/auxiliary/voip) ⭐ 39,225 | 🐛 613 | 🌐 Ruby | 📅 2026-10-23
+* [Metasploit auxiliary modules](https://github.com/rapid7/metasploit-framework/tree/master/modules/auxiliary/voip) ⭐ 39,237 | 🐛 619 | 🌐 Ruby | 📅 2026-10-23
 * [SIPVicious OSS](https://github.com/EnableSecurity/sipvicious/) ⭐ 1,111 | 🐛 0 | 🌐 Python | 📅 2026-07-10 - A set of tools to audit SIP based systems
 * [stunner](https://github.com/firefart/stunner) ⭐ 867 | 🐛 4 | 🌐 Go | 📅 2026-10-17 -  a tool to test and exploit STUN, TURN and TURN over TCP servers.
 * [SIPPTS](https://github.com/Pepelux/sippts) ⭐ 575 | 🐛 0 | 🌐 Python | 📅 2026-09-14 - Another set of tools to audit VoIP servers and devices using SIP protocol.
-* [TURNt](https://github.com/praetorian-inc/turnt) ⭐ 439 | 🐛 2 | 🌐 Go | 📅 2026-06-09 - PoC from Praetorian that abuses TURN servers (e.g. Zoom and Teams) to tunnel command-and-control traffic over web-conferencing infrastructure (the "Ghost Calls" technique).
+* [TURNt](https://github.com/praetorian-inc/turnt) ⭐ 440 | 🐛 2 | 🌐 Go | 📅 2026-06-09 - PoC from Praetorian that abuses TURN servers (e.g. Zoom and Teams) to tunnel command-and-control traffic over web-conferencing infrastructure (the "Ghost Calls" technique).
 * [Mr.SIP](https://github.com/meliht/Mr.SIP) ⭐ 438 | 🐛 1 | 🌐 Python | 📅 2026-09-14 - SIP based audit and attack tool.
 * [sipexer](https://github.com/miconda/sipexer) ⭐ 433 | 🐛 2 | 🌐 Go | 📅 2026-10-07 - modern and flexible SIP command line client for testing SIP servers and devices, with custom requests, registration floods, stateful dialogues and lightweight fuzzing.
 * [VIPROY](https://github.com/fozavci/viproy-voipkit) ⭐ 422 | 🐛 19 | 🌐 Ruby | 📅 2022-02-04 - VoIP pentest framework which can be used with the metasploit-framework.
@@ -110,7 +110,7 @@ To the extent possible under law, the authors have waived all copyright and rela
 * [VoIP Hopper](https://github.com/iknowjason/voiphopper) ⚠️ Archived - a tool to exploit insecure VLANs that are often found in IP Telephony infrastructure.
 * [rtpnatscan](https://github.com/kapejod/rtpnatscan) ⭐ 25 | 🐛 0 | 🌐 C | 📅 2017-09-05 - Tool which tests for [rtpbleed](http://rtpbleed.com) vulnerability.
 * [twilio-security-scanner](https://github.com/relayhawk/twilio-security-scanner) ⭐ 23 | 🐛 0 | 🌐 Python | 📅 2025-03-04 - scans Twilio Serverless deployments for misconfigurations such as public functions and assets, unencrypted webhooks and stale API keys.
-* [TURNado](https://github.com/SySS-Research/TURNado) ⭐ 15 | 🐛 0 | 🌐 Go | 📅 2026-07-23 - TURN attack toolkit from SySS that automates internal IP disclosure, UDP relay forwarding to internal/loopback services, SOCKS proxying, layer-3 tunnelling and allocation-based DoS.
+* [TURNado](https://github.com/SySS-Research/TURNado) ⭐ 14 | 🐛 0 | 🌐 Go | 📅 2026-07-23 - TURN attack toolkit from SySS that automates internal IP disclosure, UDP relay forwarding to internal/loopback services, SOCKS proxying, layer-3 tunnelling and allocation-based DoS.
 * [SIP Proxy](https://sourceforge.net/projects/sipproxy/) - A VoIP security testing tool.
 * [SIPp](http://sipp.sourceforge.net/): SIP based test tool / traffic generator.
   * [SIPp digest leak scenario](http://tomeko.net/other/sipp/sipp_cheatsheet.php)
@@ -182,10 +182,10 @@ The following are generic or common vulnerabilities that are related to either s
 
 ## Related lists
 
-* [Awesome Cellular Hacking](https://github.com/W00t3k/Awesome-Cellular-Hacking) ⭐ 4,084 | 🐛 2 | 📅 2026-08-28
-* [Awesome Telco](https://github.com/ravens/awesome-telco) ⭐ 1,027 | 🐛 0 | 🌐 Python | 📅 2026-10-24
+* [Awesome Cellular Hacking](https://github.com/W00t3k/Awesome-Cellular-Hacking) ⭐ 4,086 | 🐛 2 | 📅 2026-08-28
+* [Awesome Telco](https://github.com/ravens/awesome-telco) ⭐ 1,029 | 🐛 0 | 🌐 Python | 📅 2026-10-24
 * [Awesome RTC](https://github.com/rtckit/awesome-rtc/) ⭐ 496 | 🐛 17 | 📅 2026-05-18
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-24._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-25._
