@@ -241,7 +241,7 @@
             "open_issues": 628,
             "owner": "rapid7",
             "repo": "metasploit-framework",
-            "stars": 39283,
+            "stars": 39289,
             "topics": [
               "hacktoberfest"
             ]
@@ -481,7 +481,7 @@
             "open_issues": 59,
             "owner": "SigPloiter",
             "repo": "SigPloit",
-            "stars": 406,
+            "stars": 405,
             "topics": []
           },
           "first_seen": "2026-08-28T04:24:01.519Z"
@@ -523,7 +523,7 @@
             "open_issues": 1,
             "owner": "jesusprubio",
             "repo": "bluebox",
-            "stars": 263,
+            "stars": 264,
             "topics": [
               "exploit",
               "go-exploit",
@@ -544,8 +544,8 @@
             "id": 448095082,
             "language": "Python",
             "license": "Unlicense",
-            "last_commit": "2026-10-29T23:14:07Z",
-            "open_issues": 6,
+            "last_commit": "2026-11-01T01:38:48Z",
+            "open_issues": 0,
             "owner": "trustedsec",
             "repo": "SeeYouCM-Thief",
             "stars": 207,
@@ -808,7 +808,7 @@
             "open_issues": 1,
             "owner": "W00t3k",
             "repo": "Awesome-Cellular-Hacking",
-            "stars": 4099,
+            "stars": 4100,
             "topics": [
               "eviltwin",
               "gsm",
@@ -834,11 +834,11 @@
             "id": 199304591,
             "language": "Python",
             "license": "MIT",
-            "last_commit": "2026-10-24T14:00:22Z",
-            "open_issues": 1,
+            "last_commit": "2026-11-01T12:48:28Z",
+            "open_issues": 0,
             "owner": "ravens",
             "repo": "awesome-telco",
-            "stars": 1031,
+            "stars": 1032,
             "topics": []
           },
           "first_seen": "2026-08-28T04:24:01.519Z"
@@ -879,7 +879,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-31T23:29:59.252Z",
+    "last_updated": "2026-11-01T23:42:43.285Z",
     "original_repository_info": {
       "archived": false,
       "description": "a list of awesome resources related to security and hacking of VoIP, WebRTC and VoLTE",
