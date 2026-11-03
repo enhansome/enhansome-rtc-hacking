@@ -237,11 +237,11 @@
             "id": 2293158,
             "language": "Ruby",
             "license": "NOASSERTION",
-            "last_commit": "2026-10-30T22:48:41Z",
-            "open_issues": 628,
+            "last_commit": "2026-11-02T22:58:31Z",
+            "open_issues": 629,
             "owner": "rapid7",
             "repo": "metasploit-framework",
-            "stars": 39289,
+            "stars": 39294,
             "topics": [
               "hacktoberfest"
             ]
@@ -264,7 +264,7 @@
             "open_issues": 0,
             "owner": "EnableSecurity",
             "repo": "sipvicious",
-            "stars": 1110,
+            "stars": 1111,
             "topics": [
               "audit-sip",
               "hacking-tools",
@@ -391,7 +391,7 @@
             "open_issues": 1,
             "owner": "meliht",
             "repo": "Mr.SIP",
-            "stars": 438,
+            "stars": 439,
             "topics": [
               "caller-id-spoofing",
               "cracking",
@@ -428,10 +428,10 @@
             "language": "Go",
             "license": "GPL-3.0",
             "last_commit": "2026-10-31T13:32:37Z",
-            "open_issues": 2,
+            "open_issues": 11,
             "owner": "miconda",
             "repo": "sipexer",
-            "stars": 434,
+            "stars": 435,
             "topics": [
               "go",
               "golang",
@@ -481,7 +481,7 @@
             "open_issues": 59,
             "owner": "SigPloiter",
             "repo": "SigPloit",
-            "stars": 405,
+            "stars": 406,
             "topics": []
           },
           "first_seen": "2026-08-28T04:24:01.519Z"
@@ -808,7 +808,7 @@
             "open_issues": 1,
             "owner": "W00t3k",
             "repo": "Awesome-Cellular-Hacking",
-            "stars": 4100,
+            "stars": 4103,
             "topics": [
               "eviltwin",
               "gsm",
@@ -838,7 +838,7 @@
             "open_issues": 0,
             "owner": "ravens",
             "repo": "awesome-telco",
-            "stars": 1032,
+            "stars": 1033,
             "topics": []
           },
           "first_seen": "2026-08-28T04:24:01.519Z"
@@ -879,7 +879,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-01T23:42:43.285Z",
+    "last_updated": "2026-11-03T02:28:59.868Z",
     "original_repository_info": {
       "archived": false,
       "description": "a list of awesome resources related to security and hacking of VoIP, WebRTC and VoLTE",
