@@ -70,15 +70,15 @@ To the extent possible under law, the authors have waived all copyright and rela
 
 ## Advisories
 
-* [Asterisk RTP Bleed](https://github.com/EnableSecurity/advisories/tree/master/ES2017-04-asterisk-rtp-bleed) ⭐ 44 | 🐛 1 | 🌐 Python | 📅 2026-09-22
-* [Asterisk pjSIP CSeq Overflow](https://github.com/EnableSecurity/advisories/tree/master/ES2017-01-asterisk-pjsip-cseq-overflow) ⭐ 44 | 🐛 1 | 🌐 Python | 📅 2026-09-22
-* [Asterisk pjSIP Multi Parser Out-of-Bound Memory Access](https://github.com/EnableSecurity/advisories/tree/master/ES2017-02-asterisk-pjsip-multi-part-crash) ⭐ 44 | 🐛 1 | 🌐 Python | 📅 2026-09-22
-* [Asterisk Skinny Memory Exhaustion](https://github.com/EnableSecurity/advisories/tree/master/ES2017-02-asterisk-pjsip-multi-part-crash) ⭐ 44 | 🐛 1 | 🌐 Python | 📅 2026-09-22
-* [Asterisk Stack Corruption in `subscribe` Message](https://github.com/EnableSecurity/advisories/tree/master/ES2018-01-asterisk-pjsip-subscribe-stack-corruption) ⭐ 44 | 🐛 1 | 🌐 Python | 📅 2026-09-22
-* [Asterisk Segfault with Invalid SDP `fmtp` Attribute](https://github.com/EnableSecurity/advisories/tree/master/ES2018-02-asterisk-pjsip-sdp-invalid-fmtp-segfault) ⭐ 44 | 🐛 1 | 🌐 Python | 📅 2026-09-22
-* [Asterisk Segfault with Invalid Media Format Descriptiom](https://github.com/EnableSecurity/advisories/tree/master/ES2018-03-asterisk-pjsip-sdp-invalid-media-format-description-segfault) ⭐ 44 | 🐛 1 | 🌐 Python | 📅 2026-09-22
-* [Asterisk Segfault with `INVITE` Replay Attack](https://github.com/EnableSecurity/advisories/tree/master/ES2018-04-asterisk-pjsip-tcp-segfault) ⭐ 44 | 🐛 1 | 🌐 Python | 📅 2026-09-22
-* [Kamalio Off-By-One Heap Overflow](https://github.com/EnableSecurity/advisories/tree/master/ES2018-05-kamailio-heap-overflow) ⭐ 44 | 🐛 1 | 🌐 Python | 📅 2026-09-22
+* [Asterisk RTP Bleed](https://github.com/EnableSecurity/advisories/tree/master/ES2017-04-asterisk-rtp-bleed) ⭐ 44 | 🐛 1 | 🌐 Python | 📅 2026-11-04
+* [Asterisk pjSIP CSeq Overflow](https://github.com/EnableSecurity/advisories/tree/master/ES2017-01-asterisk-pjsip-cseq-overflow) ⭐ 44 | 🐛 1 | 🌐 Python | 📅 2026-11-04
+* [Asterisk pjSIP Multi Parser Out-of-Bound Memory Access](https://github.com/EnableSecurity/advisories/tree/master/ES2017-02-asterisk-pjsip-multi-part-crash) ⭐ 44 | 🐛 1 | 🌐 Python | 📅 2026-11-04
+* [Asterisk Skinny Memory Exhaustion](https://github.com/EnableSecurity/advisories/tree/master/ES2017-02-asterisk-pjsip-multi-part-crash) ⭐ 44 | 🐛 1 | 🌐 Python | 📅 2026-11-04
+* [Asterisk Stack Corruption in `subscribe` Message](https://github.com/EnableSecurity/advisories/tree/master/ES2018-01-asterisk-pjsip-subscribe-stack-corruption) ⭐ 44 | 🐛 1 | 🌐 Python | 📅 2026-11-04
+* [Asterisk Segfault with Invalid SDP `fmtp` Attribute](https://github.com/EnableSecurity/advisories/tree/master/ES2018-02-asterisk-pjsip-sdp-invalid-fmtp-segfault) ⭐ 44 | 🐛 1 | 🌐 Python | 📅 2026-11-04
+* [Asterisk Segfault with Invalid Media Format Descriptiom](https://github.com/EnableSecurity/advisories/tree/master/ES2018-03-asterisk-pjsip-sdp-invalid-media-format-description-segfault) ⭐ 44 | 🐛 1 | 🌐 Python | 📅 2026-11-04
+* [Asterisk Segfault with `INVITE` Replay Attack](https://github.com/EnableSecurity/advisories/tree/master/ES2018-04-asterisk-pjsip-tcp-segfault) ⭐ 44 | 🐛 1 | 🌐 Python | 📅 2026-11-04
+* [Kamalio Off-By-One Heap Overflow](https://github.com/EnableSecurity/advisories/tree/master/ES2018-05-kamailio-heap-overflow) ⭐ 44 | 🐛 1 | 🌐 Python | 📅 2026-11-04
 * [Cisco IOS and IOS XE SIP Protocol Denial of Service Vulnerability](https://tools.cisco.com/security/center/content/CiscoSecurityAdvisory/cisco-sa-20190925-sip-dos)
 * [Cisco IOS XE Software NAT SIP Application Layer Gateway Denial of Service Vulnerability](https://tools.cisco.com/security/center/content/CiscoSecurityAdvisory/cisco-sa-20190925-sip-alg)
 * [Cisco TelePresence Video Communication Server SIP DoS Vulnerability](https://tools.cisco.com/security/center/content/CiscoSecurityAdvisory/cisco-sa-20140122-vcs)
@@ -91,13 +91,13 @@ To the extent possible under law, the authors have waived all copyright and rela
 
 ## Open-source tools
 
-* [Metasploit auxiliary modules](https://github.com/rapid7/metasploit-framework/tree/master/modules/auxiliary/voip) ⭐ 39,306 | 🐛 621 | 🌐 Ruby | 📅 2026-11-03
-* [SIPVicious OSS](https://github.com/EnableSecurity/sipvicious/) ⭐ 1,111 | 🐛 0 | 🌐 Python | 📅 2026-07-10 - A set of tools to audit SIP based systems
+* [Metasploit auxiliary modules](https://github.com/rapid7/metasploit-framework/tree/master/modules/auxiliary/voip) ⭐ 39,314 | 🐛 627 | 🌐 Ruby | 📅 2026-11-05
+* [SIPVicious OSS](https://github.com/EnableSecurity/sipvicious/) ⭐ 1,113 | 🐛 0 | 🌐 Python | 📅 2026-07-10 - A set of tools to audit SIP based systems
 * [stunner](https://github.com/firefart/stunner) ⭐ 868 | 🐛 4 | 🌐 Go | 📅 2026-10-28 -  a tool to test and exploit STUN, TURN and TURN over TCP servers.
 * [SIPPTS](https://github.com/Pepelux/sippts) ⭐ 575 | 🐛 0 | 🌐 Python | 📅 2026-09-14 - Another set of tools to audit VoIP servers and devices using SIP protocol.
 * [TURNt](https://github.com/praetorian-inc/turnt) ⭐ 441 | 🐛 2 | 🌐 Go | 📅 2026-06-09 - PoC from Praetorian that abuses TURN servers (e.g. Zoom and Teams) to tunnel command-and-control traffic over web-conferencing infrastructure (the "Ghost Calls" technique).
 * [Mr.SIP](https://github.com/meliht/Mr.SIP) ⭐ 439 | 🐛 1 | 🌐 Python | 📅 2026-09-14 - SIP based audit and attack tool.
-* [sipexer](https://github.com/miconda/sipexer) ⭐ 435 | 🐛 3 | 🌐 Go | 📅 2026-11-03 - modern and flexible SIP command line client for testing SIP servers and devices, with custom requests, registration floods, stateful dialogues and lightweight fuzzing.
+* [sipexer](https://github.com/miconda/sipexer) ⭐ 435 | 🐛 8 | 🌐 Go | 📅 2026-11-03 - modern and flexible SIP command line client for testing SIP servers and devices, with custom requests, registration floods, stateful dialogues and lightweight fuzzing.
 * [VIPROY](https://github.com/fozavci/viproy-voipkit) ⭐ 422 | 🐛 19 | 🌐 Ruby | 📅 2022-02-04 - VoIP pentest framework which can be used with the metasploit-framework.
 * [SigPloit](https://github.com/SigPloiter/SigPloit) ⭐ 406 | 🐛 59 | 🌐 Java | 📅 2019-12-17 - Tool which covers all used SS7, GTP (3G), Diameter (4G) or even SIP protocols for IMS and VoLTE infrastructures.
 * [H26Forge](https://github.com/h26forge/h26forge) ⭐ 337 | 🐛 3 | 🌐 Rust | 📅 2026-07-14 - generates and fuzzes syntactically valid but spec-non-compliant H.264 video to find decoder vulnerabilities (relevant to WebRTC video attack surface).
@@ -182,10 +182,10 @@ The following are generic or common vulnerabilities that are related to either s
 
 ## Related lists
 
-* [Awesome Cellular Hacking](https://github.com/W00t3k/Awesome-Cellular-Hacking) ⭐ 4,105 | 🐛 1 | 📅 2026-11-03
+* [Awesome Cellular Hacking](https://github.com/W00t3k/Awesome-Cellular-Hacking) ⭐ 4,108 | 🐛 1 | 📅 2026-11-03
 * [Awesome Telco](https://github.com/ravens/awesome-telco) ⭐ 1,033 | 🐛 0 | 🌐 Python | 📅 2026-11-01
 * [Awesome RTC](https://github.com/rtckit/awesome-rtc/) ⭐ 498 | 🐛 17 | 📅 2026-05-18
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-04._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-05._
