@@ -237,11 +237,11 @@
             "id": 2293158,
             "language": "Ruby",
             "license": "NOASSERTION",
-            "last_commit": "2026-11-05T00:28:23Z",
-            "open_issues": 627,
+            "last_commit": "2026-11-05T20:18:03Z",
+            "open_issues": 629,
             "owner": "rapid7",
             "repo": "metasploit-framework",
-            "stars": 39314,
+            "stars": 39320,
             "topics": [
               "hacktoberfest"
             ]
@@ -481,7 +481,7 @@
             "open_issues": 59,
             "owner": "SigPloiter",
             "repo": "SigPloit",
-            "stars": 406,
+            "stars": 405,
             "topics": []
           },
           "first_seen": "2026-08-28T04:24:01.519Z"
@@ -569,7 +569,7 @@
             "open_issues": 1,
             "owner": "staaldraad",
             "repo": "turner",
-            "stars": 199,
+            "stars": 198,
             "topics": []
           },
           "first_seen": "2026-08-28T04:24:01.519Z"
@@ -729,7 +729,7 @@
             "id": 1272925206,
             "language": "Go",
             "license": "MIT",
-            "last_commit": "2026-07-23T13:55:17Z",
+            "last_commit": "2026-11-05T06:57:11Z",
             "open_issues": 0,
             "owner": "SySS-Research",
             "repo": "TURNado",
@@ -808,7 +808,7 @@
             "open_issues": 1,
             "owner": "W00t3k",
             "repo": "Awesome-Cellular-Hacking",
-            "stars": 4108,
+            "stars": 4107,
             "topics": [
               "eviltwin",
               "gsm",
@@ -879,7 +879,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-05T00:56:48.828Z",
+    "last_updated": "2026-11-06T00:59:12.603Z",
     "original_repository_info": {
       "archived": false,
       "description": "a list of awesome resources related to security and hacking of VoIP, WebRTC and VoLTE",
