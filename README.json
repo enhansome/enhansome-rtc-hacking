@@ -237,11 +237,11 @@
             "id": 2293158,
             "language": "Ruby",
             "license": "NOASSERTION",
-            "last_commit": "2026-11-10T22:05:06Z",
-            "open_issues": 609,
+            "last_commit": "2026-11-11T18:51:35Z",
+            "open_issues": 611,
             "owner": "rapid7",
             "repo": "metasploit-framework",
-            "stars": 39429,
+            "stars": 39537,
             "topics": [
               "hacktoberfest"
             ]
@@ -294,7 +294,7 @@
             "id": 481937257,
             "language": "Go",
             "license": "NOASSERTION",
-            "last_commit": "2026-11-09T21:41:26Z",
+            "last_commit": "2026-11-11T18:56:37Z",
             "open_issues": 4,
             "owner": "firefart",
             "repo": "stunner",
@@ -324,7 +324,7 @@
             "id": 35772572,
             "language": "Python",
             "license": "GPL-3.0",
-            "last_commit": "2026-09-14T17:05:12Z",
+            "last_commit": "2026-11-11T11:22:22Z",
             "open_issues": 0,
             "owner": "Pepelux",
             "repo": "sippts",
@@ -808,7 +808,7 @@
             "open_issues": 1,
             "owner": "W00t3k",
             "repo": "Awesome-Cellular-Hacking",
-            "stars": 4121,
+            "stars": 4122,
             "topics": [
               "eviltwin",
               "gsm",
@@ -859,7 +859,7 @@
             "open_issues": 17,
             "owner": "rtckit",
             "repo": "awesome-rtc",
-            "stars": 498,
+            "stars": 499,
             "topics": [
               "awesome",
               "awesome-list",
@@ -879,7 +879,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-11T00:43:32.543Z",
+    "last_updated": "2026-11-12T01:56:40.854Z",
     "original_repository_info": {
       "archived": false,
       "description": "a list of awesome resources related to security and hacking of VoIP, WebRTC and VoLTE",
@@ -891,7 +891,7 @@
       "open_issues": 0,
       "owner": "EnableSecurity",
       "repo": "awesome-rtc-hacking",
-      "stars": 562,
+      "stars": 563,
       "topics": [
         "awesome",
         "awesome-list",
