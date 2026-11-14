@@ -238,10 +238,10 @@
             "language": "Ruby",
             "license": "NOASSERTION",
             "last_commit": "2026-11-13T17:51:05Z",
-            "open_issues": 608,
+            "open_issues": 611,
             "owner": "rapid7",
             "repo": "metasploit-framework",
-            "stars": 39576,
+            "stars": 39578,
             "topics": [
               "hacktoberfest"
             ]
@@ -298,7 +298,7 @@
             "open_issues": 4,
             "owner": "firefart",
             "repo": "stunner",
-            "stars": 868,
+            "stars": 869,
             "topics": [
               "exploit",
               "misconfiguration",
@@ -328,7 +328,7 @@
             "open_issues": 0,
             "owner": "Pepelux",
             "repo": "sippts",
-            "stars": 575,
+            "stars": 576,
             "topics": [
               "asterisk",
               "elastix",
@@ -808,7 +808,7 @@
             "open_issues": 1,
             "owner": "W00t3k",
             "repo": "Awesome-Cellular-Hacking",
-            "stars": 4124,
+            "stars": 4125,
             "topics": [
               "eviltwin",
               "gsm",
@@ -838,7 +838,7 @@
             "open_issues": 0,
             "owner": "ravens",
             "repo": "awesome-telco",
-            "stars": 1035,
+            "stars": 1036,
             "topics": []
           },
           "first_seen": "2026-08-28T04:24:01.519Z"
@@ -879,7 +879,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-14T00:55:54.276Z",
+    "last_updated": "2026-11-14T23:59:54.882Z",
     "original_repository_info": {
       "archived": false,
       "description": "a list of awesome resources related to security and hacking of VoIP, WebRTC and VoLTE",
@@ -891,7 +891,7 @@
       "open_issues": 0,
       "owner": "EnableSecurity",
       "repo": "awesome-rtc-hacking",
-      "stars": 563,
+      "stars": 564,
       "topics": [
         "awesome",
         "awesome-list",
