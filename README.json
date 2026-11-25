@@ -237,11 +237,11 @@
             "id": 2293158,
             "language": "Ruby",
             "license": "NOASSERTION",
-            "last_commit": "2026-11-23T17:30:36Z",
-            "open_issues": 607,
+            "last_commit": "2026-11-24T12:21:15Z",
+            "open_issues": 609,
             "owner": "rapid7",
             "repo": "metasploit-framework",
-            "stars": 39651,
+            "stars": 39658,
             "topics": [
               "hacktoberfest"
             ]
@@ -519,8 +519,8 @@
             "id": 9036642,
             "language": "Go",
             "license": "MIT",
-            "last_commit": "2026-11-23T08:54:00Z",
-            "open_issues": 2,
+            "last_commit": "2026-11-24T15:44:20Z",
+            "open_issues": 0,
             "owner": "jesusprubio",
             "repo": "bluebox",
             "stars": 264,
@@ -712,7 +712,7 @@
             "open_issues": 0,
             "owner": "relayhawk",
             "repo": "twilio-security-scanner",
-            "stars": 23,
+            "stars": 24,
             "topics": []
           },
           "first_seen": "2026-08-28T04:24:01.519Z"
@@ -808,7 +808,7 @@
             "open_issues": 0,
             "owner": "W00t3k",
             "repo": "Awesome-Cellular-Hacking",
-            "stars": 4143,
+            "stars": 4147,
             "topics": [
               "eviltwin",
               "gsm",
@@ -834,8 +834,8 @@
             "id": 199304591,
             "language": "Python",
             "license": "MIT",
-            "last_commit": "2026-11-19T12:04:11Z",
-            "open_issues": 1,
+            "last_commit": "2026-11-24T08:26:25Z",
+            "open_issues": 0,
             "owner": "ravens",
             "repo": "awesome-telco",
             "stars": 1041,
@@ -856,7 +856,7 @@
             "language": null,
             "license": "CC0-1.0",
             "last_commit": "2026-11-18T22:28:47Z",
-            "open_issues": 5,
+            "open_issues": 6,
             "owner": "rtckit",
             "repo": "awesome-rtc",
             "stars": 500,
@@ -879,7 +879,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-24T04:52:30.111Z",
+    "last_updated": "2026-11-25T03:36:20.202Z",
     "original_repository_info": {
       "archived": false,
       "description": "a list of awesome resources related to security and hacking of VoIP, WebRTC and VoLTE",
