@@ -91,12 +91,12 @@ To the extent possible under law, the authors have waived all copyright and rela
 
 ## Open-source tools
 
-* [Metasploit auxiliary modules](https://github.com/rapid7/metasploit-framework/tree/master/modules/auxiliary/voip) ⭐ 39,682 | 🐛 599 | 🌐 Ruby | 📅 2026-11-27
+* [Metasploit auxiliary modules](https://github.com/rapid7/metasploit-framework/tree/master/modules/auxiliary/voip) ⭐ 39,692 | 🐛 599 | 🌐 Ruby | 📅 2026-11-27
 * [SIPVicious OSS](https://github.com/EnableSecurity/sipvicious/) ⭐ 1,116 | 🐛 0 | 🌐 Python | 📅 2026-07-10 - A set of tools to audit SIP based systems
 * [stunner](https://github.com/firefart/stunner) ⭐ 869 | 🐛 4 | 🌐 Go | 📅 2026-11-17 -  a tool to test and exploit STUN, TURN and TURN over TCP servers.
 * [SIPPTS](https://github.com/Pepelux/sippts) ⭐ 578 | 🐛 0 | 🌐 Python | 📅 2026-11-11 - Another set of tools to audit VoIP servers and devices using SIP protocol.
 * [TURNt](https://github.com/praetorian-inc/turnt) ⭐ 444 | 🐛 2 | 🌐 Go | 📅 2026-06-09 - PoC from Praetorian that abuses TURN servers (e.g. Zoom and Teams) to tunnel command-and-control traffic over web-conferencing infrastructure (the "Ghost Calls" technique).
-* [Mr.SIP](https://github.com/meliht/Mr.SIP) ⭐ 439 | 🐛 1 | 🌐 Python | 📅 2026-09-14 - SIP based audit and attack tool.
+* [Mr.SIP](https://github.com/meliht/Mr.SIP) ⭐ 438 | 🐛 1 | 🌐 Python | 📅 2026-09-14 - SIP based audit and attack tool.
 * [sipexer](https://github.com/miconda/sipexer) ⭐ 436 | 🐛 0 | 🌐 Go | 📅 2026-11-16 - modern and flexible SIP command line client for testing SIP servers and devices, with custom requests, registration floods, stateful dialogues and lightweight fuzzing.
 * [VIPROY](https://github.com/fozavci/viproy-voipkit) ⭐ 422 | 🐛 19 | 🌐 Ruby | 📅 2022-02-04 - VoIP pentest framework which can be used with the metasploit-framework.
 * [SigPloit](https://github.com/SigPloiter/SigPloit) ⭐ 409 | 🐛 60 | 🌐 Java | 📅 2019-12-17 - Tool which covers all used SS7, GTP (3G), Diameter (4G) or even SIP protocols for IMS and VoLTE infrastructures.
@@ -188,4 +188,4 @@ The following are generic or common vulnerabilities that are related to either s
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-27._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-28._
